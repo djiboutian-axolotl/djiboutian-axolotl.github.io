@@ -12,6 +12,6 @@ A much-needed note: grading is fun *when you're the one doing it.* When on the r
 
 > Grading is fun when you're the one doing it.
 
-We now treat grading solely from the perspective of the grader. (For whatever reason, I had neglected to consider grading from the perspective of the graded in my initial conception of this post, but after the aside/clarification provided above, there is an implied "... from the perspective of the grader" in our future mentions of "grading".) With that out of the way, we continue our previous line of thought.
+We now treat grading solely from the perspective of the grader. (For whatever reason, I had neglected to consider grading from the perspective of the graded in my initial conception of this post, but after the aside/clarification provided above, there will be an implied "... from the perspective of the grader" in our future mentions of "grading".) With that out of the way, we continue our previous line of thought.
 
 Grading is fun, but far less satisfying (and thus less fun) when the graded individuals, as a collective, perform poorly. Few tasks are easier than grading a blank question, but the element of disappointment reduces its fun.
