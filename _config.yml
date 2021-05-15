@@ -51,7 +51,7 @@ github_username:  djiboutian-axolotl
 show_excerpts: true
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
