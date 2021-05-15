@@ -47,6 +47,9 @@ math_engine: mathjax
 # twitter_username: jekyllrb
 github_username:  djiboutian-axolotl
 
+# To show excerpts on the homepage:
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
