@@ -3,7 +3,7 @@ layout: post
 title:  "First post."
 date:   2021-05-15 03:58:11 -0400
 categories: blog
-use_math: false
+use_math: true
 author: Your Correspondent
 ---
 This post is a test post. Let's see how it works out.
