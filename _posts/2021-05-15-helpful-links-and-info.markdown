@@ -11,3 +11,5 @@ I can type `bundle info --path minima` to get the gem installation location.
 To test locally, type `bundle exec jekyll serve`.
 
 Edit from mobile? Check!
+
+En &ndash; dash?
