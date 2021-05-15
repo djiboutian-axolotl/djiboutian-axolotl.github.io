@@ -1,18 +1,3 @@
-<!-- {% if page.use_math %}
+{% if page.use_math %}
 {% include _mathjax_support.html %}
 {% endif %}
- -->
-
- <script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function(){
-  document.querySelectorAll("script[type='math/tex']").forEach(function(el){
-    el.outerHTML = "\\(" + el.textContent + "\\)";
-  });
-  document.querySelectorAll("script[type='math/tex; mode=display']").forEach(function(el){
-    el.outerHTML = "\\[" + el.textContent + "\\]";
-  });
-  var script = document.createElement('script');
-  script.src = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js";
-  document.head.appendChild(script);
-}, false);
-</script>
