@@ -10,6 +10,6 @@ This post is a test post. Let's see how it works out.
 
 Will Latex work? $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
 
-And does this work for non-inline?
+And does this work for non-inline? 
 
 $$\sum_{i=0}^{n} x^i$$
