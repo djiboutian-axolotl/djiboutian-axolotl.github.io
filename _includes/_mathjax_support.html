@@ -1,23 +1,18 @@
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
-    tex2jax: {
-    inlineMath: [ ['$', '$'] ],
-    displayMath: [ ['$$', '$$'] ],
-    processEscapes: true,
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function(){
+  function stripcdata(x) {
+    if (x.startsWith('% <![CDATA[') && x.endsWith('%]]>'))
+      return x.substring(11,x.length-4);
+    return x;
   }
-});
-MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
-MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
-</script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  document.querySelectorAll("script[type='math/tex']").forEach(function(el){
+    el.outerHTML = "\\(" + stripcdata(el.textContent) + "\\)";
+  });
+  document.querySelectorAll("script[type='math/tex; mode=display']").forEach(function(el){
+    el.outerHTML = "\\[" + stripcdata(el.textContent) + "\\]";
+  });
+  var script = document.createElement('script');
+  script.src = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+  document.head.appendChild(script);
+}, false);
 </script>
