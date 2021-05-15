@@ -19,14 +19,14 @@ Edit from mobile? Check!
 ## Links in markdown
 1. Standard links in which both the label and URL are defined together:
 
- `[label](http://example.com)`
+  `[label](http://example.com)`
 
 1. Reference links, which can be in one of two forms:
 
- `[label][key] or [key]`
+  `[label][key] or [key]`
 
- `[key]: http://example.com`
+  `[key]: http://example.com`
 
 1. Automatic Links, where the label is the URL:
 
- `<http://example.com>`
+  `<http://example.com>`
