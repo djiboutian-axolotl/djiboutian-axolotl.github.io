@@ -12,4 +12,6 @@ To test locally, type `bundle exec jekyll serve`.
 
 Edit from mobile? Check!
 
-En &ndash; dash?
+* Endash: &ndash; `&ndash;`
+* Emdash: &mdash; `&mdash;`
+* Minus: &minus; `&minus;`
