@@ -17,4 +17,3 @@ Well, this was a much blogg-ier, long-twitter-esque post. Guess ya gotta start s
 Till next time (because otherwise the ground will be too hard to plant plants!),
 
 Yours.
-
