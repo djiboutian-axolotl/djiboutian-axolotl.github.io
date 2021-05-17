@@ -26,7 +26,7 @@ The image above was centered and captioned using the following code:
 {% highlight html %}
 <figure class="align-center">
  <p align="center">
-  <img src="/images/image_name.png" alt="">
+  <img src="/images/image_name.png" alt="alt text">
  </p>
  <figcaption align="center">
   <i>My caption.</i>

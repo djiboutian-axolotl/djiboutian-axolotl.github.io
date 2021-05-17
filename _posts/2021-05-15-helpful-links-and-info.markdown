@@ -24,3 +24,17 @@ Edit from mobile? Check!
   `[key]: http://example.com`
 1. Automatic links, where the label is the URL:
   `<http://example.com>`
+
+## Center and caption an image
+I can center and caption  an image with the following code:
+{% highlight html %}
+<figure class="align-center">
+ <p align="center">
+  <img src="/images/image_name.png" alt="alt text">
+ </p>
+ <figcaption align="center">
+  <i>My caption.</i>
+ </figcaption>
+</figure> 
+{% endhighlight %}
+
