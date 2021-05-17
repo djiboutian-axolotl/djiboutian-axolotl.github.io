@@ -25,7 +25,9 @@ Edit from mobile? Check!
 1. Automatic links, where the label is the URL:
   `<http://example.com>`
 
-## Center and caption an image
+## Images
+
+### Center and caption an image
 I can center and caption  an image with the following code:
 {% highlight html %}
 <figure class="align-center">
@@ -40,3 +42,15 @@ I can center and caption  an image with the following code:
 </figure> 
 {% endhighlight %}
 
+### Remove background from image
+I used this link <https://www.remove.bg/> to remove the image's background.
+
+### Remove metadata from image
+To remove metadata from the image, I did the following:
+1. Right click on the image
+1. Select **Properties**, then **Details**
+1. Click **Remove Properties and Personal Information**
+1. Click **Create a copy with all possible properties removed** in the top of the window
+1. Click **OK**
+
+The newly created image now has all metadata removed!
