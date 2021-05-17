@@ -32,8 +32,10 @@ I can center and caption  an image with the following code:
  <p align="center">
   <img src="/images/image_name.png" alt="alt text">
  </p>
- <figcaption align="center">
-  <i>My caption.</i>
+ <figcaption class="align-center">
+  <p align="center">
+   <i>My caption.</i>
+  </p>
  </figcaption>
 </figure> 
 {% endhighlight %}

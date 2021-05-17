@@ -15,7 +15,9 @@ This tiredness, to me, is not a surprise. I have no historical example of myself
 	<p align="center">
 		<img src="/images/2021-05-17-cropped-sammie.png" alt="double-decker sammie">
 	</p>
-	<figcaption align="center"><i>A too-big sandwich that was meant to save time but took 30+ minutes to eat.</i></figcaption>
+	<figcaption>
+		<p align="center"><i>A too-big sandwich that was meant to save time but took 30+ minutes to eat.</i></p>
+	</figcaption>
 </figure> 
 
 Now, I will have something to eat. What I will *not* eat, though, is a double-decker peanut butter and banana sandwich (pictured above). I thought making such a sandwich would save time. Instead, it took me 25 minutes to eat 3/4 of the thing, and then I was too full to run. Time, in short, was decidedly not saved.
@@ -28,8 +30,10 @@ The image above was centered and captioned using the following code:
  <p align="center">
   <img src="/images/image_name.png" alt="alt text">
  </p>
- <figcaption align="center">
-  <i>My caption.</i>
+ <figcaption class="align-center">
+  <p align="center">
+   <i>My caption.</i>
+  </p>
  </figcaption>
 </figure> 
 {% endhighlight %}
