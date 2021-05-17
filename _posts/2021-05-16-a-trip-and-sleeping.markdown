@@ -16,7 +16,7 @@ Under such a strategy, I've averaged 3.5 hours of sleep over the past two nights
 
 > Oh, the sweet relaxation of finishing a semester?? I'm not sure.
 
-To be fair, I slept some in the car today. Perhaps 2 hours total, snatched in bits and pieces &ndash; about 45 minutes there, and two 30-minutes back. I, however, ascribe this less to true sleepiness and more to the monotony of rolling through a tree-lined highway, and to the fact that I've already read the books I brought to read. Nothing can put me to sleep like Plato's *Republic*, but these familiar reads did the trick, too (though with less suffering on my part). Also, I do seem to sleep in cars when, were I not in a car, I would remain awake.
+To be fair, I slept some in the car today. Perhaps 2 hours total, snatched in bits and pieces &ndash; about 45 minutes there, and two 30-minutes back. I, however, ascribe this less to true sleepiness and more to the monotony of rolling through a tree-lined highway, and to the fact that I've already read the books I brought to read. Nothing can put me to sleep like Plato's *Republic*, but these familiar reads did the trick, too (though with less suffering on the part of yours). Also, I do seem to sleep in cars when, were I not in a car, I would remain awake.
 
 
 ### Returning
