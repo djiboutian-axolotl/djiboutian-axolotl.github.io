@@ -16,14 +16,14 @@ Under such a strategy, I've averaged 3.5 hours of sleep over the past two nights
 
 > Oh, the sweet relaxation of finishing a semester?? I'm not sure.
 
-To be fair, I slept some in the car today. Perhaps 2 hours total, snatched in bits and pieces &ndash; about 45 minutes there, and two 30-minutes back. I, however, ascribe this less to true sleepiness and more to the monotony of rolling through a tree-lined highway, and to the fact that I've already read the books I brought to read. Nothing can put me to sleep like Plato's *Republic*, but these familiar reads did the trick, too. Also, I do seem to sleep in cars when, were I not in a car, I would remain awake otherwise.
+To be fair, I slept some in the car today. Perhaps 2 hours total, snatched in bits and pieces &ndash; about 45 minutes there, and two 30-minutes back. I, however, ascribe this less to true sleepiness and more to the monotony of rolling through a tree-lined highway, and to the fact that I've already read the books I brought to read. Nothing can put me to sleep like Plato's *Republic*, but these familiar reads did the trick, too. Also, I do seem to sleep in cars when, were I not in a car, I would otherwise remain awake.
 
 
 ### Returning
 
 The sleep of returning is wrapped up in the discussion above. To summarize: I slept some, but I missed little.
 
-We took a scenic route on the latter part of the journey, which was quite scenic and quite traffic free. Although slower, my verdict is that what we lost in time we made up for in fun. I have not been 50 miles clear of the old Mason and Dixon since March of last year &ndash; an effect of the pandemic and its remote everything. I was more than happy to follow these restrictions, but it was fun to be back. New York City was much taller than I remembered and, I think, much taller than it was, thanks to its residential skyscraper boom.
+We took a scenic route on the latter part of the journey, which was quite scenic and quite traffic free. Although slower, my verdict is that what we lost in time we made up for in fun. I have not been 30 miles clear of the old Mason-and-Dixon since March of last year &ndash; an effect of the pandemic and its remote everything. I was more than happy to follow these restrictions, but it was fun to be back. New York City was much taller than I remembered and, I think, much taller than it was, thanks to its residential skyscraper boom.
 
 Back to the journey back: the sights were fun, the weather was great, and the traffic was minimal. The only complaint: one member of my party's attempt at a vegetarian dinner ended with a hamburger roll, a leaf of lettuce, three pieces of a pepper, and some slices of tomato.
 
