@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Verdict: I was tired."
-date:   2021-05-16 23:43:11 -0400
+date:   2021-05-17 16:08:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
