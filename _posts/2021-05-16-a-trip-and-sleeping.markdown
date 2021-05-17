@@ -8,7 +8,7 @@ author: Your Correspondent
 ---
 Today was a great day for a trip.
 
-## Going
+### Going
 
 We left bright-and-early, with plenty of light in the sky but plenty of sleep in my eyes. For whatever reason, I haven't been sleeping &ndash; and not because I haven't been able to. I've decided to make myself busy (with this, with grading, with whatever). Then, I go to sleep, and then, I wake up when I need to.
 
@@ -19,7 +19,7 @@ Under such a strategy, I've averaged 3.5 hours of sleep over the past two nights
 To be fair, I slept some in the car today. Perhaps 2 hours total, snatched in bits and pieces &ndash; about 45 minutes there, and two 30-minutes back. I, however, ascribe this less to true sleepiness and more to the monotony of rolling through a tree-lined highway, and to the fact that I've already read the books I brought to read. Nothing can put me to sleep like Plato's *Republic*, but these familiar reads did the trick. Also, I do seem to sleep in cars when, were I not in a car, I would remain awake otherwise.
 
 
-## Returning
+### Returning
 
 The sleep of returning is wrapped up in the discussion above. To summarize: I slept some, but I missed little.
 
@@ -31,6 +31,6 @@ This might sometimes be enough for a snack but, lacking protein, made for an unf
 
 Another interesting note on dinner: The employees were not wearing masks, though they did have a plastic guard between us and the cash register. Glad to be vaxxed!
 
----
+### Goodnight
 
 Well, I had better to bed. Perhaps the sleepiness is catching up to me; more importantly, though, 17 hours awake is about enough for about anyone to begin to tire. Perhaps I'll be able to gauge my exhaustion today from the time of my wake-up tomorrow but, more likely than not, I won't.
