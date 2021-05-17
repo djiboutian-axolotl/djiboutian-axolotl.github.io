@@ -55,6 +55,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+permalink: pretty
+
 # show correct time on posts
 timezone: America/New_York
 
