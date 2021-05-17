@@ -14,6 +14,6 @@ I am looking forward to a summer of research, running, and reading (the three r'
 
 Well, this was a much blogg-ier, long-twitter-esque post. Guess ya gotta start somewhere!
 
-Till next time (because otherwise the ground will be too hard to plant plants!),
+Till next time (because otherwise the ground will once again be too hard to plant plants!),
 
 Yours.
