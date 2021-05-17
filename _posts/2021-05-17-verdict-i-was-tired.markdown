@@ -8,7 +8,7 @@ author: Your Correspondent
 ---
 After sleeping 12+ hours, I can now conclude that I was, in fact, tired.
 
-This tiredness, to me, is not a surprise. I have no historical example of myself being able to maintain such a sleepless schedule. The main surprise, though, is that I now feel more tired than I felt in previous days. This has been wont to occur, but it still makes little sense.
+This tiredness, to me, is not a surprise. I have no historical example of myself being able to maintain such a sleepless schedule. The main surprise, though, is that I now feel more tired than I felt in previous days. Such "greater exhaustion after sleeping for a while" has been wont to occur, but it still makes little sense.
 
 <!-- A cumbersome but valid way to make a centered, captioned image. -->
 <figure class="align-center">
@@ -30,7 +30,7 @@ The image above was centered and captioned using the following code:
  <p align="center">
   <img src="/images/image_name.png" alt="alt text">
  </p>
- <figcaption class="align-center">
+ <figcaption>
   <p align="center">
    <i>My caption.</i>
   </p>
