@@ -22,5 +22,5 @@ Edit from mobile? Check!
 1. Reference links, which can be in one of two forms:
   `[label][key] or [key]`
   `[key]: http://example.com`
-1. Automatic Links, where the label is the URL:
+1. Automatic links, where the label is the URL:
   `<http://example.com>`
