@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A trip and sleeping."
-date:   2021-05-16 23:47:11 -0400
+date:   2021-05-16 23:43:11 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
