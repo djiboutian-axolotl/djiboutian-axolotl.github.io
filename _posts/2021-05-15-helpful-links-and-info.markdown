@@ -27,6 +27,8 @@ Edit from mobile? Check!
 
 ## Images
 
+The following instructions are helpful for adding an image to a post.
+
 ### Center and caption an image
 I can center and caption  an image with the following code:
 {% highlight html %}
@@ -43,7 +45,7 @@ I can center and caption  an image with the following code:
 {% endhighlight %}
 
 ### Remove background from image
-I used this link <https://www.remove.bg/> to remove the image's background.
+I used <https://www.remove.bg/> to remove the image's background.
 
 ### Remove metadata from image
 To remove metadata from the image, I did the following:
