@@ -34,3 +34,7 @@ Another interesting note on dinner: The employees were not wearing masks, though
 ### Goodnight
 
 Well, I had better to bed. Perhaps the sleepiness is catching up to me; more importantly, though, 17 hours awake is about enough for about anyone to begin to tire. Perhaps I'll be able to gauge my exhaustion today from the time of my wake-up tomorrow but, more likely than not, I won't.
+
+#### Addendum
+
+I now admit that I may be a bit sleepier than usual. Before retiring, I elected to help myself to a drink. Of course, I did not want to soil a water glass with a single use, so I decided to waterfall it. Some water fell into my mouth, but too much fell onto my chin and shirt. Goodnight.
