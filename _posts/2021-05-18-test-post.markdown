@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Test post."
+title:  "Test post - title changed."
 date:   2021-05-18 02:38:11 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
 ---
+I changed the title but not the URL.
+
 Let's see what IFTTT decides to tweet when I make this post.
 
 ## Test title to see what Twitter does
