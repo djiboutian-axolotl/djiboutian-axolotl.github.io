@@ -18,7 +18,7 @@ Briefly, I am neither Djiboutian nor an axolotl. Resultantly, the name itself di
 
 <figure class="align-center">
 	<p align="center">
-		<img src="/images/2021-05-18-site-logo.png" alt="site logo: a djiboutian axolotl" style="width:200px;">
+		<img src="/images/2021-05-18-site-logo.png" alt="site logo: a djiboutian axolotl" width="200" >
 	</p>
 	<figcaption>
 		<p align="center"><i>The only known image of a Djiboutian axolotl, which also happens to be this site's logo.</i></p>
