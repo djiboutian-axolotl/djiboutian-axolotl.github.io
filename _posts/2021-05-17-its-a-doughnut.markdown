@@ -40,7 +40,7 @@ It should be noted, though, that our gas tank was emptier. I recall some doctor 
 
 A more compelling argument against the free doughnut is that, given our distance from the nearest Krispy, it would be far cheaper to make a weekly drive and buy a dozen doughnuts than to make the daily drive for a single "free" doughnut. Also, I doubt that, at this point in my life, anything short of force-feeding myself could lead to a 15-pound weight increase.
 
-Despite the cash savings from buying a dozen, the loss of the strange and magical experience of receiving a doughnut free to a select 150-million-member club far outweighs the monetary gain. Additionally, I have no plans to eat a doughnut a day.
+Despite the cash savings from buying a dozen, the loss of the strange and magical experience of receiving a doughnut free to a select 150-million-member club far outweighs the monetary gain. Moreover, I have no plans to eat a doughnut a day.
 
 ## Tomorrow
 
