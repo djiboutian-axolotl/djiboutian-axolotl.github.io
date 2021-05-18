@@ -34,7 +34,7 @@ Then, you eat the doughnut, but do you? Others took time for their order and pai
 
 Though basically the same route, our journey back somehow felt easier. It may have been eased, too, by my discovery &ndash; and subsequent consumption &ndash; of a missing crumb cake from yesterday's trip (we had ordered two crumb cakes, but the un-full and possibly slightly delirious vegetarian only found one in doling out the post-dinner dessert).
 
-We returned home with nothing to show for our trip, save a doughnut bag apiece. Our wallets were no lighter, our stomachs no fuller (save from the crumb cake), and our lives were, by all metrics, unchanged.
+We returned home with nothing to show for our trip, except a doughnut bag apiece. Our wallets were no lighter, our stomachs no fuller (save from the crumb cake), and our lives were, by all metrics, unchanged.
 
 It should be noted, though, that our gas tank was emptier. I recall some doctor raging, at the time when Krispy Kreme announced the offer, that an American who took full advantage of Krispy Kreme's 'til the end of the year offer would gain 15 pounds. So how free, they asked, is this free doughnut?
 
