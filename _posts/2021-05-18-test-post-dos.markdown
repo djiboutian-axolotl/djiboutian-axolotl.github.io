@@ -6,4 +6,6 @@ categories: blog
 use_math: false
 author: Your Correspondent
 ---
-Revising this test post. Apparently it was a silly test post because I forgot to update the IFTTT trigger actions. Whoops!
+Revising this test post.
+
+Apparently it was a silly test post because I forgot to update the IFTTT trigger actions. Whoops!
