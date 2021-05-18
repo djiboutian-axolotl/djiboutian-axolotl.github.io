@@ -1,0 +1,9 @@
+---
+layout: page
+---
+{{ content }}
+{%- for post in site.posts -%}
+	{%- if post.is_about -%}
+		{{ post.content }}
+	{%- endif -%}
+{%- endfor -%}

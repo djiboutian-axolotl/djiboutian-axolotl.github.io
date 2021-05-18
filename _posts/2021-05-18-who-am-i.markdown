@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Who am I?"
+date:   2021-05-17 16:08:00 -0400
+categories: blog
+use_math: false
+author: Your Correspondent
+is_about: true
+---
+
+To answer quickly, I'm *not* Jean Valjean, a.k.a. 24601.
+
+I'm sure you're disappointed, and I apologize for the letdown. As a greater letdown (perhaps), I prefer my anonymity, and beyond the assurance that I am not a fictional character from a century-and-a-half-old novel, I will tell you little about who I am not, least of all who I am.
+
+## Why this name?
+
+Briefly, I am neither Djiboutian nor an axolotl. Resultantly, the name itself divulges nothing, and the explanation that I am *not* the name divulges little, seeing as fewer than 1 million people live in Djibouti, and seeing as few axolotls are able to use computers.
+
+Djiboutian axolotls, moreover, do not exist. Djibouti is rather desert-y, and Wikipedia tells me that it has only 7.7 square miles of water. It is not, therefore, particularly suited for supporting any meaningful population of critically endangered salamanders found in a single lake near Mexico City, least of all an internet-faring one.
+
+I essentially conceived of the name randomly (though few processes are truly random), but then I decided to research its components to make sure nothing was too objectionable, and found that raising public awareness of the axolotl, and, resultantly, its plight of being a critically endangered species found in a single, polluted, invasive-species-ridden lake near Mexico City.
+
+Djibouti, too, is a country that rarely crosses the airwaves (or printwaves?) or my mind, and it appears to have been fairly peaceful since the Djiboutian Civil War came to a close in the mid-1990s. The country is democratically governed, albeit largely by a single party, and is an ally of the United States. The appearance is that, though, like all countries, Djibouti could clearly be better, it could also clearly be worse.
+
+If this site achieves any profit-bearing notoriety, I pledge to contribute at least some nominal portion of it to either the axolotl cause or to Djibouti or to both (though, I should note, neither profit nor popularity is a goal of this endeavor).
+
+I must emphasize, though, that this site's name was not chosen for noble reasons so much as for random and anonymity-preserving reasons.
+
+## Why anonymity?
+
+Part of the attempt at anonymity is for fun. I am very into privacy, and it is engaging to consider how to walk the line between giving up information and not giving up my identity. As you may have already sensed, this blog (or whatever it becomes) is a personal exercise, with musings and experiences that may be wholly unique to me (when the time stamps are also considered). However, you may have also observed that it rarely names people or places.
+
+I imagine that, quite soon, there will be nobody else in the world whose experiences and thoughts match the experiences and thoughts which I have published, with time stamps, onto the internet. However, because nobody I know knows yet about this site, and because only I am privy to my exact thoughts and whereabouts (I make little use of social media), my hope is that few &ndash; ideally none &ndash; aside from myself will be able to make the correspondence between what this site records and who the recorder is.
+
+The other part of the attempt at anonymity is that I have a significant appreciation for aesthetic beauty. I believe that knowing my identity, by at least somewhat connecting the art with the artist, would spoil the aesthetic-driven goal of the site.
+
+Is this art? Probably not, but I do strive for my prose to be (1) fun for me to write and (2) fun for me to read, so my first goal is that I appreciate it, and a later goal is that others appreciate it.
+
+## Founding info
+
+This site was founded by an individual and, as you can tell by the first posts, this founding took place on May 15, 2021. Perhaps the site will morph into a team effort, but it began as a non-team effort.
+
+The site is hosted on GitHub pages, and it is built using the Jekyll static site generator, and it uses the default Minima theme. I relied primarily on the instructions found [here on GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and [here on Jekyll](https://jekyllrb.com/docs/).
+
+## Conclusion
+
+I hope you (or at least I) enjoy this site. I plan to post on a roughly daily basis.
+
+Feel free to follow us/me on Twitter at [@DjiboutiAxolotl](https://twitter.com/DjiboutiAxolotl). In a major disappointment, Twitter has a 15-character limit on usernames, so I was unable to include the full name of this site as the username. Well, as the French say, c'est la vie.
+
