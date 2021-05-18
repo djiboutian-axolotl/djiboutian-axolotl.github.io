@@ -9,6 +9,8 @@ author: Your Correspondent
 
 Due to my possession of a vaccine card, today I went to Krispy Kreme. Due to my possession of a vaccine, tomorrow I will see my cousin.
 
+In other words, our celebration of "St. Patrick's Day plus two months" was a rip-roaring success.
+
 ## Doughnuts
 
 My "chauffeur" (sibling), who has had little opportunity to take advantage of her vaccine card's power to provide free Krispy Kreme, decided to finally cash in on this best feature of having a vaccine. (For those of you in a coronavirus-free (or coronavirus-indifferent...) future, the national doughnut chain known as Krispy Kreme is, for the whole year, offering a free original glazed doughnut to anyone who presents a vaccine card at the establishment.)
