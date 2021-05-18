@@ -46,6 +46,7 @@ markdown: kramdown
 math_engine: mathjax
 # twitter_username: jekyllrb
 github_username:  djiboutian-axolotl
+twitter_username: DjiboutiAxolotl
 
 # To show excerpts on the homepage:
 show_excerpts: true
