@@ -6,6 +6,11 @@ categories: blog
 use_math: false
 author: Your Correspondent
 ---
+
+This post will including an ever-updating list of helpful Jekyll- and markdown-related notes.
+
+## Jekyll commands
+
 I can type `bundle info --path minima` to get the gem installation location.
 
 To test locally, type `bundle exec jekyll serve`.
