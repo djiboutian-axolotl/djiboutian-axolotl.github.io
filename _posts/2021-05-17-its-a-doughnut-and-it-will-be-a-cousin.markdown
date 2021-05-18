@@ -17,7 +17,7 @@ My "chauffeur" (sibling), who has had little opportunity to take advantage of he
 
 <figure class="align-center">
 	<p align="center">
-		<img src="/images/2021-05-21-free-krispy-kreme-promotion.png" alt="free doughnut promotional image">
+		<img src="/images/2021-05-17-free-krispy-kreme-promotion.png" alt="free doughnut promotional image">
 	</p>
 	<figcaption>
 		<p align="center"><i>The promotional image used by Krispy Kreme to market its free doughnut offer.</i></p>
