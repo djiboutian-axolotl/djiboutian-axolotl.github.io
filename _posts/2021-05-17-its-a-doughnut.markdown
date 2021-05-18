@@ -36,7 +36,7 @@ Though basically the same route, our journey back somehow felt easier. It may ha
 
 We returned home with nothing to show for our trip, except a doughnut bag apiece. Our wallets were no lighter, our stomachs no fuller (save from the crumb cake), and our lives were, by all metrics, unchanged.
 
-It should be noted, though, that our gas tank was emptier. I recall some doctor raging, at the time when Krispy Kreme announced the offer, that an American who took full advantage of Krispy Kreme's 'til the end of the year offer would gain 15 pounds. So how free, they asked, is this free doughnut?
+It should be noted, though, that our gas tank was emptier. I recall some doctor raging, at the time when Krispy Kreme announced the offer, that an American who took full advantage of Krispy Kreme's 'til-the-end-of-the-year deal would gain 15 pounds. So how free, they asked, is this free doughnut?
 
 A more compelling argument against the free doughnut is that, given our distance from the nearest Krispy, it would be far cheaper to make a weekly drive and buy a dozen doughnuts than to make the daily drive for a single "free" doughnut. Also, I doubt that, at this point in my life, anything short of force-feeding myself could lead to a 15-pound weight increase.
 
