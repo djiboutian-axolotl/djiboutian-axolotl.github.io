@@ -32,7 +32,7 @@ Then, you eat the doughnut, but do you? Others took time for their order and pai
 
 >Did you eat a doughnut, or did you just drive, hallucinate mildly and unadventurously for 15 minutes, and turn back for home?
 
-Though basically the same route, our journey back somehow felt easier. It may have been eased, too, by my discovery &ndash; and subsequent consumption &ndash; of a missing crumb cake from yesterday's trip (we had ordered two crumb cakes, but the un-full and possibly slightly delirious vegetarian only found one in doling out the post-dinner desert).
+Though basically the same route, our journey back somehow felt easier. It may have been eased, too, by my discovery &ndash; and subsequent consumption &ndash; of a missing crumb cake from yesterday's trip (we had ordered two crumb cakes, but the un-full and possibly slightly delirious vegetarian only found one in doling out the post-dinner dessert).
 
 We returned home with nothing to show for our trip, save a doughnut bag apiece. Our wallets were no lighter, our stomachs no fuller (save from the crumb cake), and our lives were, by all metrics, unchanged.
 
