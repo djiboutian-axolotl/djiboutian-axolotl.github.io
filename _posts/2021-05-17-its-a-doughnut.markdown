@@ -24,7 +24,7 @@ My "chauffeur" (sibling), who has had little opportunity to take advantage of he
 	</figcaption>
 </figure> 
 
-We made what was an unexpectedly treacherous journey to our area's sole Krispy Kreme, navigating over narrow bridges spanning ~~roaring rivers~~ a creek, through far too many construction zones, and, with a bizarre left turn that may have gone several inches in the opposite direction of the traffic whose roadway we were crossing, into the parking lot of the Krispy Kreme. Thankfully, we had ABBA to help us through it all.
+We made what was an unexpectedly treacherous journey to our area's sole Krispy Kreme, navigating over narrow bridges spanning ~~roaring rivers~~ a creek, through far too many construction zones, and, with a bizarre left turn that may have gone several inches in the opposite direction of the traffic whose path we were crossing, into the parking lot of the Krispy Kreme. Thankfully, we had ABBA to help us through it all.
 
 The whole transaction felt, in my sibling's words, magical. You walk in, you wait for the people in front of you to make their detailed, halting order. Then, they pay (which is also an inexplicably long process). Now it's your turn. A flash of a card, and the single employee at the counter (there are, invariably, several employees at the back doing whatever it is that employees at the back do) hands you a bag with a doughnut. Without a trip to the register, you walk out, doughnut bag (with doughnut) in hand.
 
