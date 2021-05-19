@@ -49,7 +49,7 @@ Is this art? Probably not, but I do strive for my prose to be (1) fun for me to 
 
 On May 18, 2021, I added analytics to this site. Because Google Analytics is *way* too creepy for me, I decided to go with [Insights](https://getinsights.io), which is free and tracks without using cookies! Also, if you have "Do not track" turned on, it actually doesn't track! (It only marks that the site received another visit, without noting which pages you visited or collecting any other data abiut you.) Most sites just ignore "Do not track" requests.
 
-[Matomo](https://matomo.org/) looks like another cool option, but that would require setting up a server, and I'm trying to keep things free for now. If enough of you start visiting my site, then Insights will become unfree, so maybe then I'll look into Matomo, but I'll stick with the free, server-less option until then.
+[Matomo](https://matomo.org/) looks like another cool option, but using that would require setting up a server, and I'm trying to keep things free for now. If enough of you start visiting my site, then Insights will become unfree, so maybe then I'll look into Matomo, but I'll stick with the free, server-less option until then.
 
 ## Founding info
 
