@@ -56,4 +56,3 @@ The site is hosted on GitHub pages, and it is built using the Jekyll static site
 I hope you (or at least I) enjoy this site. I plan to post on a roughly daily basis.
 
 Feel free to follow us/me on Twitter at [@DjiboutiAxolotl](https://twitter.com/DjiboutiAxolotl). In a major disappointment, Twitter has a 15-character limit on usernames, so I was unable to include the full name of this site as the username. Well, as the French say, c'est la vie.
-
