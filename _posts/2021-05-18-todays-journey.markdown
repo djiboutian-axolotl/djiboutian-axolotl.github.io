@@ -28,5 +28,7 @@ Between our walk to the park and the park itself, I would not be surprised if I 
 
 After traveling, we returned home. I ate pizza for dinner, and then I did some editing (which took much longer than I expected but was a fun, and I think valuable, experience).
 
+Oh, I also added analytics to this site. Because Google Analytics is *way* too creepy for me, I decided to go with [Insights](https://getinsights.io), which is free and tracks without using cookies! So far, it looks like I'm my site's only visitor, but that's fine with me, seeing as I've made no efforts to publicize its existence.
+
 Well, let's see what tomorrow brings!
 
