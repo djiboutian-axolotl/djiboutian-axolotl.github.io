@@ -55,6 +55,7 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 permalink: pretty
 
