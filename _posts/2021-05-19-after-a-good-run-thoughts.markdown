@@ -5,7 +5,6 @@ date:   2021-05-19 23:36:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
-is_about: true
 ---
 
 Today, I had a good run.
