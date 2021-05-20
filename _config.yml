@@ -65,8 +65,8 @@ timezone: America/New_York
 # add algolia
 algolia:
   application_id: ISSC4IZT25
-  index_name:     'djiboutian-axolotl' # You can replace that with whatever name you want
-  search_only_api_key: cd28996cf6510d1c16f3a94a33a82e96
+  index_name:     djiboutian-axolotl # You can replace that with whatever name you want
+  search_only_api_key: de30668709d2c49b2a0743239825d8e7
   files_to_exclude: []
 
 # Exclude from processing.
