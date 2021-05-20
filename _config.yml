@@ -64,8 +64,9 @@ timezone: America/New_York
 
 # add algolia
 algolia:
-  application_id: 00H3MV0104
-  index_name:     djiboutian-axolotl # You can replace that with whatever name you want
+  application_id: ISSC4IZT25
+  index_name:     'djiboutian-axolotl' # You can replace that with whatever name you want
+  files_to_exclude: []
 
 # Exclude from processing.
 # The following items will not be processed, by default.
