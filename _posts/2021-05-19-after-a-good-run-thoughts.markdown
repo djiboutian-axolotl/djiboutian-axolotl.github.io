@@ -44,5 +44,5 @@ The ever-shifting, ever-challenging calculus of running is knowing how much pain
 
 The calculus is, and I quote, "ever-shifting, ever-challenging", because there is the nagging push to get better, the cautious pull to stay healthy, and the conflicting push/pull to run fast enough to have fun today but slow enough to be able to move tomorrow. On a month-to-month basis, as mileage increases (or, in the case of an injury, decreases) and goals stretch toward new dreams and contract toward new realities, training plans can appear dauntingly challenging to past you and delightfully easy to future you. An ideal plan is only perfectly ideal (with some wiggle room) for a single day.
 
-Running &ndash; if you have an eye toward improvement &ndash; is a thinker's sport. But, for me, that's (at least part of) the fun of it!
+Running &ndash; if you have an eye toward improvement &ndash; is a thinker's sport. But, for me, that's the fun of it!
 
