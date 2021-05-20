@@ -1,5 +1,6 @@
 # .travis.yml
 # This file should be at the root of your project
+# use http://www.yamllint.com/ to check yml validity
 language: ruby
 cache: bundler
 before_install:
@@ -11,6 +12,5 @@ branches:
     # Change this to gh-pages if you're deploying using the gh-pages branch
     - master
 rvm:
- - 2.4
- exclude: [vendor]
- 
+    - 2.4
+exclude: [vendor]
