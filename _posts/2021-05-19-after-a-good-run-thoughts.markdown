@@ -17,7 +17,7 @@ It was great.
 
 I began responsibly. Having skipped a run yesterday, I held the pent-up energy that can lead to a regrettably quick start and, in fairness, I did begin a little quicker than I should've. But I recovered. (Sometimes I don't, but today I did.) I, as the cliche goes, "hit my stride".
 
-I remained in my stride for the middle of the run, and stayed there for a piece of the end. Then, the coolness of dusk, and the urgency of arriving home while I could still see, urged me to pick it up.
+I remained in my stride for the middle of the run, and stayed there for a piece of the end. Then, the coolness of dusk, and the necessity of arriving home while I could still see, urged me to pick it up.
 
 Not feeling up for an argument &ndash; if you don't remember, I was then engaged in a rather-fast run &ndash; I assented. My legs kicked with more force, my calves sprung with more bounce, my quads lifted with more height. Now, I was moving.
 
@@ -29,11 +29,11 @@ Instants after the point-of-no-return would have passed, had I decided to step o
 
 I should explain here that I am no pacifist. However, I also do not kill wantonly, and I desperately dislike being directly involved in death, particularly death of the needless variety. If, for example, I spy a house centipede in my room or a silverfish in the bathtub, I prefer to move it rather than squash it. (The exception for me is spiders, due to several incredibly painful spiderbites that have not even imbued me with Spiderman-esque powers, and due to the fact that some spiders can kill in a way that, to my knowledge, silverfish and house centipedes cannot.)
 
-Thankfully, my frog friend (or, more accurately, "frog", since I had little opportunity to get to know the fellow) avoided the squish and, for all I know, remains on the path, perhaps in wait for someone else to avoid the squish &ndash; or for someone else to experience the rush of avoiding a near-squish.
+Thankfully, my frog friend (or, more accurately, "frog", since I had little opportunity to get to know the fellow) avoided the squish and, for all I know, remains on the path, perhaps in wait for some luckless soul to perform the squish on the frog's luckless soul &ndash; or for someone else to experience the rush of avoiding a near-squish.
 
-Spurred on by the heart-pounding effect of nearly squishing a frog, I sped up. By now, I was not running at dusk; I was running at night. Headlights swung along my fuzzed-out hair, my bare chest, as I step-step-stepped forward.
+Spurred on by the heart-pounding effect of nearly squishing a frog, I sped up. By now, I was not jogging at dusk; I was running at night. Headlights swung along my fuzzed-out hair, my bare chest, as I step-step-stepped forward.
 
-Soon (sooner, in fact, than ever before, according to my watch when I uploaded the run) I was home. I performed some swift but light back-and-forths along my street to cool down, and then returned inside to chug orange juice and guzzle milk, so as to avoid the post-run wooziness that can knock me out of commission for the rest of the evening if I'm not careful.
+Soon (sooner, in fact, than ever before, according to the tropy icon presented to me when I uploaded the run) I was home. I performed some swift but light back-and-forths along my street as a cool-down, and then returned inside to chug orange juice and guzzle milk, so as to avoid the post-run wooziness that can knock me out of commission for the rest of the evening if I'm not careful.
 
 ## Postscript (Do postscripts exist in non-letters? I suppose they can.)
 
