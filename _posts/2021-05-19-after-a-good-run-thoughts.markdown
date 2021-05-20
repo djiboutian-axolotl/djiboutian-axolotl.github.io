@@ -17,7 +17,7 @@ It was great.
 
 I began responsibly. Having skipped a run yesterday, I held the pent-up energy that can lead to a regrettably quick start and, in fairness, I did begin a little quicker than I should've. But I recovered. (Sometimes I don't, but today I did.) I, as the cliche goes, "hit my stride".
 
-I remained in my stride for the middle of the run, and stayed there for a piece of the end. Then, the coolness of dusk, and the necessity of arriving home while I could still see, urged me to pick it up.
+I remained in my stride for the middle of the run, and stayed there for the start of the end. Then, the coolness of dusk, and the necessity of arriving home while I could still see, urged me to pick it up.
 
 Not feeling up for an argument &ndash; if you don't remember, I was then engaged in a rather-fast run &ndash; I assented. My legs kicked with more force, my calves sprung with more bounce, my quads lifted with more height. Now, I was moving.
 
