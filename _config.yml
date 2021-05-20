@@ -39,7 +39,7 @@
 title: The Djiboutian axolotl
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Quaint musings of a simple Djiboutian axolotl. A thorough embrace of the banality of life.
+  Quaint musings of a simple Djiboutian axolotl. An unflinching embrace of the banality of life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://djiboutian-axolotl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
