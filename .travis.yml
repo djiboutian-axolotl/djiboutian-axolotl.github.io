@@ -13,3 +13,4 @@ branches:
 rvm:
  - 2.4
  exclude: [vendor]
+ 
