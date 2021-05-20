@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "After a good run: thoughts on running."
+title:  "After a good run: some thoughts on running."
 date:   2021-05-19 23:36:00 -0400
 categories: blog
 use_math: false
