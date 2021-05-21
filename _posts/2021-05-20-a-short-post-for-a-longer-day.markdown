@@ -7,7 +7,7 @@ use_math: false
 author: Your Correspondent
 ---
 
-Despite the title of this post, today was not a day with more hours, or even with more perceived hours.
+Despite the title of this post, today was not a day with more hours, or even with more perceived hours. I was not awake longer than ordinary, and I did not suffer more than usual.
 
 Instead, "longer" refers to the length of the run I went on. And the comparative *-er* is not in comparison with previous runs; rather, it is only in comparison with the run I went on yesterday. Which is to say, "I ran further today than a ran yesterday, and today's post is fairly short". No more information than that is intended to be conveyed by the title and, as far as I can tell, no more information than that is conveyed by the title.
 
