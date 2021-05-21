@@ -33,6 +33,15 @@ My favorite shadow from today was when I glanced to the side and saw my hair, li
 
 > I glanced to the side and saw my hair, like the headdress of Kokopelli, bouncing against my head, its shadow and mine dancing in profile along the fence beside me.
 
+<figure class="align-center">
+	<p align="center">
+		<img src="/images/2021-05-20-kokopelli.png" alt="Kokopelli">
+	</p>
+	<figcaption>
+		<p align="center"><i>Kokopelli, who, were his flute removed, looks very roughly like the shadow of a running me projected against a fence.</i></p>
+	</figcaption>
+</figure> 
+
 To me, the best, coolest shadow is projected against a fence. For some reason, it's captivating to watch my own (though, more accurately and less conceitedly, the human body's) efficiency: legs lifting not too high and kicking back not too hard, and arms parallelling my body like the coupling rods on a train, moving enough to drive forward but not so much as to expend unneeded energy. And a fence is the best medium against to view this smooth motion: unlike the ground, which distorts the body into some pulling, twisting, stretching two-dimensional print that looks very little like a person, the fence's vertical orientation captures a perfect cross-section of myself and my forward movement.
 
 Tomorrow is unlikely to contain another extensive meditation on a run. My sister feels like traveling again, and I'll likely join.
