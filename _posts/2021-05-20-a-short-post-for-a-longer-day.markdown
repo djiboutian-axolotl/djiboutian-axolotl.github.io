@@ -38,7 +38,7 @@ My favorite shadow from today was when I glanced to the left and saw my hair, li
 		<img src="/images/2021-05-20-kokopelli.png" alt="Kokopelli">
 	</p>
 	<figcaption>
-		<p align="center"><i>Kokopelli, who, were his flute removed, looks very roughly like the shadow of a running me projected against a fence.</i></p>
+		<p align="center"><i>Kokopelli, who, were his flute removed, looks very roughly like the shadow of a running me projected against a fence. (My hair is kinda long and fuzzy right now!)</i></p>
 	</figcaption>
 </figure> 
 
