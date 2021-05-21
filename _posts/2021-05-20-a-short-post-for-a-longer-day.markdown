@@ -29,9 +29,9 @@ Today, there was no invisible hand. Instead, save that first mile (perhaps), eve
 
 The enduring memory from today's run: Seeing the shadow of my running self.
 
-My favorite shadow from today was when I glanced to the side and saw my hair, like the headdress of Kokopelli, bouncing against my head, its shadow and mine dancing in profile along the fence beside me. (This description was not the product of some thesaurus-based analogy hunt; I literally looked over and thought, "Yo, I really look like fluteless Kokopelli!")
+My favorite shadow from today was when I glanced to the left and saw my hair, like the headdress of Kokopelli, bouncing against my head, its shadow and mine dancing in profile along the fence beside me. (This description was not the product of some thesaurus-based analogy hunt; I literally looked over and thought, "Yo, I really look like fluteless Kokopelli!")
 
-> I glanced to the side and saw my hair, like the headdress of Kokopelli, bouncing against my head, its shadow and mine dancing in profile along the fence beside me.
+> I glanced to the left and saw my hair, like the headdress of Kokopelli, bouncing against my head, its shadow and mine dancing in profile along the fence beside me.
 
 <figure class="align-center">
 	<p align="center">
