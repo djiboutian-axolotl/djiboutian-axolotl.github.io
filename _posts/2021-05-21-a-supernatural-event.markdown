@@ -23,7 +23,7 @@ Speaking of "hallucination", I need to throw in a plug for [The Halluci Nation](
 
 Speaking of music, Lana Del Rey came out with new music yesterday! In spite of (or perhaps because of) the "industry plant" rumors that seem to surround her, I find the art she produces impressive. (As I mentioned [in this post]({% post_url 2021-05-18-who-am-i %}), I often value art for who makes it, but sometimes I value art for art's sake, and her stunningly accurate embodiment of that Americana zeitgeist makes, for me, her music worth listening to.)
 
-If you don't like her, thoug, don't worry. Because I feel like different musicians (and different causes) could benefit more from my money, I only listen to her music through Spotify &ndash; and free Spotify at that &ndash; so between Spotify's stinginess and the label's cut, she's only getting something like two cents for every million of my plays of her music.
+If you don't like her, though, don't worry. Because I feel like different musicians (and different causes) could benefit more from my money, I only listen to her music through Spotify &ndash; and free Spotify at that &ndash; so between Spotify's stinginess and the label's cut, she's only getting something like two cents for every million of my plays of her music.
 
 ## Back to it
 
