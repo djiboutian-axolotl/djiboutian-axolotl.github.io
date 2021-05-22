@@ -86,4 +86,4 @@ I said at the beginning of this post that *"I think I've even found that explana
 
 I know some kind of physics-y, light-based stuff was going on. But anything we see is physics-y, light-based stuff since we *see* it.
 
-In conclusion, I have no idea what happened. All I know is it gave me pause and encouraged me to be more introspective. And I know that it was really, really cool, and maybe a little magical.
+I'm sure this account doesn't do justice to the event, but *man* was it awesome (in the *awe-causing* sense of "awesome", not in the *cool, dude* sense of "awesome" [but in that sense too]). In conclusion, I have no idea what happened. I do know, though, that it gave me pause and encouraged me to be more introspective. And I know that it was really, really cool, and maybe a little magical.
