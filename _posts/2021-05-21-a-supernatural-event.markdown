@@ -76,7 +76,9 @@ In all seriousness, I feel like this experience was, if not spiritual, at least 
 
 > OK, the fact that I wrote the previous sentences in this paragraph just convinced me that this was a spiritual experience in some way to some degree &ndash; I am also un-religious enough that, before this paragraph, I never really thought I would mention religion on this site.
 
-When I told my family about the rainbow, my sister suggested &ndash; perhaps partly or fully in jest &ndash; that it was my guardian angel. Honestly, I thought the same thing at the time. I felt watched, but in a protective way. I also felt somehow  appreciated.
+When I told my family about the rainbow, my sister suggested &ndash; perhaps partly or fully in jest &ndash; that it was my guardian angel. Honestly, I thought the same thing at the time. I felt watched, but in a protective way. I also felt somehow appreciated and, in that moment, I felt distinctly cared for.
+
+(I feel cared for by my family, too, but I felt cared for kind of *by the rainbow*. It made sense at the time and it makes sense now, too, having experienced it &ndash; even if it feels a little weird to type.)
 
 The rainbow, to summarize, was crazy, wonderful, magical, touching, and fleeting. Part of me hopes to see it regularly, but part of me thinks that would ruin the magic. I'll let you know (1) if I see it again, (2) if my running friends have seen anything like it, or (3) if I figure anything out.
 
