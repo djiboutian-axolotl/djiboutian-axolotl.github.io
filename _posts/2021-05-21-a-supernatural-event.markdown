@@ -80,7 +80,9 @@ When I told my family about the rainbow, my sister suggested &ndash; perhaps par
 
 (I feel cared for by my family, too, but I felt cared for kind of *by the rainbow*. It made sense at the time and it makes sense now, too, having experienced it &ndash; even if it feels a little weird to type.)
 
-The rainbow, to summarize, was crazy, wonderful, magical, touching, and fleeting. Part of me hopes to see it regularly, but part of me thinks that would ruin the magic. I'll let you know (1) if I see it again, (2) if my running friends have seen anything like it, or (3) if I figure anything out.
+The rainbow, to summarize, was crazy, wonderful, magical, touching, and fleeting. Part of me hopes to see it regularly, but part of me thinks that would ruin the magic. I imagine seeing the rainbow is kind of like going to Disney World. It's crazy the first time, and the second time, and the third time, but if you went every day, the wonder would beging to lessen. I'll let you know (1) if I see it again, (2) if my running friends have seen anything like it, or (3) if I figure anything out.
+
+> I imagine seeing the rainbow is kind of like going to Disney World. It's crazy the first time, and the second time, and the third time, but if you went every day, the wonder would beging to lessen.
 
 I said at the beginning of this post that *"I think I've even found that explanation"*. I no longer think I did. My explanation was some half-formed idea that had to do with the angle of the sun and the reflection off the road. But the angle had quite a bit of wiggle room since it lasted for minutes, and since my head bobs up and down to some extent when I run, and since asphalt is made of uneven chunks of who-knows-what, since the road was at least somewhat hilly, and since the rainbow was visible on the white lines of the road too.
 
