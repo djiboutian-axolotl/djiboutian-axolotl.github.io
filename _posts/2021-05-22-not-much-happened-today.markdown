@@ -28,8 +28,8 @@ What follows is a brief summary of running &ndash; on the scale of "running toda
 * I did not see a rainbow either in the sky or as a halo around my shadow.
 * Today was very hot
 * I still wore a shirt
-** As a result, I ran slower than usual
-*** But faster and more consistently than I thought I might
+	* As a result, I ran slower than usual
+		* But faster and more consistently than I thought I might
 * My overall assessment: the run went well.
 
 'Til next time!
