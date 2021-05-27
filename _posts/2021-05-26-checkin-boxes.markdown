@@ -16,6 +16,11 @@ Oh well &ndash; plenty of things feel like checking boxes, and this isn't too bu
 I did a couple o' things today:
 * had French toast for breakfast
 * picked strawberries
+	* there were so many
+	* they were so easy to pick
+	* they were all so good!
+		* I ate a few
+			* (but not too many)
 * ran
 	* almost ran faster than a bike
 		* but I didn't know where the finish line was (or the start line), so I slowed down too soon
