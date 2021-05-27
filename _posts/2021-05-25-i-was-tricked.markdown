@@ -20,4 +20,4 @@ When I ran today, I saw three vultures eating a dead raccoon. I had first seen t
 
 It smelled horrible, but I'd say it was only the third-stinkiest dead raccoon I've smelled in the past 3 months.
 
-The vultures flapped away heavily when I passed. That was also disgusting. At least they moved the raccoon out of the street and onto the grass, so it's further from me when I run by.
+The vultures flapped away heavily when I passed. That was also disgusting. At least they moved the raccoon out of the street and onto the grass. Now it's further from me when I run by.
