@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Checkin' boxes"
+title:  "Checkin' boxes."
 date:   2021-05-26 23:35:00 -0400
 categories: blog
 use_math: false
