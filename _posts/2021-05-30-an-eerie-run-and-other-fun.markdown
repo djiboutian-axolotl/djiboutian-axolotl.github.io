@@ -59,7 +59,9 @@ I looked to the left: no cars. I looked to the right: no cars. (Normally, this i
 
 But I did take the time to look back once more. I noticed now that the red, too, was reflecting off the road, pooling with the green (theoretically making yellow at this intersection, though I didn't notice), and glowing through the mist. The stillness, the quiet, and the alone-ness of it all &ndash; despite the fact that I was in a well-populated neighborhood &ndash; make this, for me, my lasting impression of the run.
 
-Then, people. A pair of adults playing some yard-game outside, a car, and a man in a garage. All felt somewhat NPC-ish, but the eeriness, at least, was now broken. I returned home, less shaken since I had definitively returned from some oddly and surprisingly people-less world, but still imprinted by the unexpected aloneness that I found (without looking for it) on tonight's run.
+Then, people. A pair of adults playing some yard-game outside, a car, and a man in a garage. All felt somewhat NPC-ish, but the eeriness, at least, was now broken. I returned home, less shaken since I had definitively returned from some oddly and surprisingly people-less world, but still imprinted by the unexpected aloneness that I had found (without looking for it) on tonight's run.
+
+> I returned home, less shaken since I had definitively returned from some oddly and surprisingly people-less world, but still imprinted by the unexpected aloneness that I had found...
 
 ## Wrapping things up
 
