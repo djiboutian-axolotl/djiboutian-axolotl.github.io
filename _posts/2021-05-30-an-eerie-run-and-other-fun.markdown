@@ -61,7 +61,7 @@ But I did take the time to look back once more. I noticed now that the red, too,
 
 Then, people. A pair of adults playing some yard-game outside, a car, and a man in a garage. All felt somewhat NPC-ish, but the eeriness, at least, was now broken. I returned home, less shaken since I had definitively returned from some oddly and surprisingly people-less world, but still imprinted by the unexpected aloneness that I found (without looking for it) on tonight's run.
 
-Anyway, I don't see any metaphor or deeper meaning to any of this, but that was made for an unusual and unexpected end to the day &ndash; it was all a little fun but a little eerie, and when the uncanny silence and aloneness of everything really set in at the traffic light, that was interesting!
+Anyway, I don't see any metaphor or deeper meaning to any of this, but this made for an unusual and unexpected end to the day &ndash; it was all a little fun but a little eerie, and when the uncanny silence and aloneness of everything really set in at the traffic light, that was interesting!
 
 ---
 *<sup>[1]</sup> This post actually ended up covering a lot of what went down, so I am probably not going to make a follow-up post. We'll see, though &ndash; I'm unpredictable that way ;).*
