@@ -63,7 +63,7 @@ Then, people. A pair of adults playing some yard-game outside, a car, and a man 
 
 ## Wrapping things up
 
-Anyway, I don't see any metaphor or deeper meaning to any of this, but this made for an unusual and unexpected end to the day &ndash; it was all a little fun but a little eerie, and when the uncanny silence and aloneness of everything really set in at the traffic light, that was interesting!
+Anyway, I don't see any metaphor or deeper meaning to this, but it made for an unusual and unexpected end to the day &ndash; it was all a little fun but a little eerie, and when the uncanny silence and aloneness of everything really set in at the traffic light, that was interesting!
 
 ---
 *<sup>[1]</sup> This post actually ended up covering a lot of what went down, so I am probably not going to make a follow-up post. We'll see, though &ndash; I'm unpredictable that way ;).*
