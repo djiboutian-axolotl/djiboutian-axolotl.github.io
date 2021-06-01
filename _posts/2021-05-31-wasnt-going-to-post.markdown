@@ -13,7 +13,7 @@ I wasn't going to post, but just as I was going to bed, something strange happen
 
 I quickly realized, though, that there was more to the tangle than just a tangle when, within the tangle, I felt something wet.
 
-*Huh,* I wondered, *How is my hair still wet? I haven't been near water in about half an hour.*
+*Huh,* I wondered. *How is my hair still wet? I haven't been near water in about half an hour.*
 
 I pulled at the tangle some more before realizing that the wet felt more substantial than water. Fearing the worst, I decided to smell my fingers. Thankfully, strangely, 'twas *mint*.
 
