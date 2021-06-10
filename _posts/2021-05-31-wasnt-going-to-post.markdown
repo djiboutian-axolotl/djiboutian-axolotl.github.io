@@ -7,7 +7,7 @@ use_math: false
 author: Your Correspondent
 ---
 
-I'll keep this short.
+... here we are. I'll keep this short.
 
 I wasn't going to post, but just as I was going to bed, something strange happened. (I have no idea why, but strange things seem to have been happening at a ridiculously higher rate since I started posting on this thang.) I was combing my fingers through my hair, in the way that one does, when I felt what I thought was a tangle. Naturally, to prevent future me from pulling the tangle, I decided to untangle the tangle.
 
