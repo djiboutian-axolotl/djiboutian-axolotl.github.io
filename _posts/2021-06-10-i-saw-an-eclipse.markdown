@@ -40,6 +40,8 @@ We then told my dad about the eclipse, and he remembered where our official glas
 
 After the eclipse finished, I decided to run. Having run 18+ miles over the past two days (with only about 4 of those miles coming yesterday!), my legs were kind of tired, but it was fun, and I ran about 5 miles at about a 7:15 pace. I even managed this with a shirt on, despite oppressive >85% humidity. I'll take it.
 
-I got new shoes a couple of days ago, and they have made an awesome (in the original awe-based meaning of the word) difference. Fingers crossed that they continue to keep me injury free.
+I got new shoes a couple of days ago, and they have made an awesome (in the original awe-based meaning of the word) difference. Fingers crossed that they continue to keep me injury-free.
+
+> Fingers crossed that they continue to keep me injury-free.
 
 Also, I might run more today. I'll see.
