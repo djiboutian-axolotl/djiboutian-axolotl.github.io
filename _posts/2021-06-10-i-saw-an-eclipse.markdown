@@ -15,7 +15,7 @@ Then, at 5:23 am, I popped awake. I felt like some sort of bug was crawling on m
 
 Being tired, I decided to return to bed. First, though, I thought I'd give my little dog a kiss to just say hello. She had been resting in her bed the whole time I was looking out the window but the kiss, of course, woke her up completely.
 
-I tried to get her to settle down and go back to bed but this was, unsurprisingly, fruitless. Five minutes later, I heard my mom (who apparently also woke up to try to see the eclipse) moving around.
+I tried to get her to settle down and go back to bed but this was, unsurprisingly, fruitless. Five minutes later, I heard my mom (who apparently also woke up to try to see the eclipse) moving around. (My mom later told me that it was her plan to wake up for the eclipse, but that she did not set an alarm because she was confident that excitement about the eclipse would wake her up!) I brought my dog downstairs, let her outside, and decided to wake up for good
 
 By now, the sun was visible above the trees, and I was thoroughly awake. I took my pinhole camera and tried to look at the eclipse. I saw nothing impressive.
 
