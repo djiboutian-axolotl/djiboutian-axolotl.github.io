@@ -13,7 +13,7 @@ I knew there was going to be a partial solar eclipse around 5:30 am today, but I
 
 Then, at 5:23 am, I popped awake. I felt like some sort of bug was crawling on me or something, and I was a little itchy. I looked at the time and realized that the eclipse would soon be upon us, so I decided to peek out the window to see what I could see. I could not see the sun &ndash; it was still behind the trees. I thought the sunlight may have been slightly weaker than usual, but I wasn't very certain at all.
 
-Being tired, I decided to return to bed. First, though, I thought I'd give my little dog a kiss to just say hello. She had been resting in her bed the whole time I was looking out the window but this, of course, woke her up completely.
+Being tired, I decided to return to bed. First, though, I thought I'd give my little dog a kiss to just say hello. She had been resting in her bed the whole time I was looking out the window but the kiss, of course, woke her up completely.
 
 I tried to get her to settle down and go back to bed but this was, unsurprisingly, fruitless. Five minutes later, I heard my mom (who apparently also woke up to try to see the eclipse) moving around.
 
