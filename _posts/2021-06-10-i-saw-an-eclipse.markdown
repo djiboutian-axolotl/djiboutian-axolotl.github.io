@@ -30,7 +30,7 @@ I looked out the window through this new contraption, expecting to be unimpresse
 		<img src="/images/2021-06-10-cropped-eclipse.jpg" alt="an image of the eclipse">
 	</p>
 	<figcaption>
-		<p align="center"><i>A view of the eclipse through official eclipse glasses that my dad found. The actual eclipse looked much better &ndash; taking a picture of an eclipse is hard!</i></p>
+		<p align="center"><i>A view of the eclipse through official eclipse glasses that my dad found. The glowing shape is the sun as seen through the glasses; you can see the bite out of the sun in the lower left corner. The actual eclipse looked much better. The sun's edges were very crisp, and it looked much bigger than it looks in this picture. Taking a picture of an eclipse is hard!</i></p>
 	</figcaption>
 </figure> 
 
