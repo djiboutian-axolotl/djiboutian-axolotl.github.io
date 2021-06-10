@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "I wasn't going to post, but..."
-date:   2021-06-01 23:49:00 -0400
+title:  "Toothpaste: an update."
+date:   2021-06-01 10:49:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
