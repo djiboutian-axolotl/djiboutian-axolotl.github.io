@@ -9,7 +9,7 @@ author: Your Correspondent
 
 Over the past year-and-a-half, drill music has gone from constituting approximately none of my music listening to constituting the majority of my music listening.
 
-Drill music seems fundamentally out of character with my outward interests and my internal self. Resultantly, I have often found myself asking, *Why do I listen to drill?*
+Drill music seems out of character with my outward interests and my internal self (at least based on traditional ideas concerning who listens to drill music). Resultantly, I have often found myself asking, *Why do I listen to drill?*
 
 > Why do I listen to drill?
 
