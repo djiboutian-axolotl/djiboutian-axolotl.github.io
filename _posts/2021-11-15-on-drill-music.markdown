@@ -7,7 +7,7 @@ use_math: false
 author: Your Correspondent
 ---
 
-Over the past year-and-a-half, drill music has gone from constituting approximately none of my music listening to constituting the majority of my music listening.
+Over the past year-and-a-half, drill music has gone from constituting approximately none of my music-listening to constituting the majority of my music-listening.
 
 Drill music seems out of character with my outward interests and my internal self (at least based on traditional ideas concerning who listens to drill music). Resultantly, I have often found myself asking, *Why do I listen to drill?*
 
@@ -19,7 +19,7 @@ I know that I do enjoy vicariously living hedonistically (I think this is largel
 
 Drill, on the other hand, is much more depressed. It doesn't glorify a lavish lifestyle or (as Future sometimes does) lament the general malaise that accompanies a too-lavish lifestyle. Instead, it mourns dead friends, while both embracing and fearing -- but mostly just accepting -- the inevitability of more pain and more death. This is not a lifestyle that a person would be expected to seek out, even vicariously. So if I don't listen to drill for the vicarious hedonism, why do I listen to it?
 
-I used to fear that I listened to drill music in a "slummin'" sort of way: I wanted to somehow align my backstory with a harder lifestyle than the one I've experienced. But some of the things I've experienced are, objectively, tough. I also understand the extent of my blessings -- which, to be clear, is quite large. Because of my self-awareness of my privileges, and because of the toughness of some things that I have experienced, I often reject this explanation, but it lurks.
+I used to fear that I listened to drill music in a "slummin'" sort of way: I wanted to somehow align my backstory with a harder lifestyle than the one I've experienced. But some of the things I've experienced are, objectively, tough. I also understand the extent of my blessings -- which, to be clear, is quite large. Because of my self-awareness of my privileges, and because of the undeniable toughness of some things that I have experienced, I often reject this explanation, but it lurks.
 
 Today, as I listened to Polo G in-depth for the first time, I arrived at what may be my most conclusive answer. First, and most shallowly, I listen to learn about a lifestyle I don't know, but that people I know do (or did) know. I was largely aware of this before tonight.
 
