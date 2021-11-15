@@ -31,7 +31,7 @@ For "whatever" reason ("whatever" is in quotes because the reasoning is more kno
 
 The most analogous feeling of validation that I experienced is when, in an article about teammates' reactions to the death of Tyler Skaggs or José Fernández, someone mentioned the pain of seeing this guy in the clubhouse one day and never seeing him again the next. Again, these are hard guys: after all, they endured minor league baseball.<sup>[1]</sup> But this still (understandably) hit them. The idea of an athlete dying young (see [this poem](https://www.poetryfoundation.org/poems/46452/to-an-athlete-dying-young)) is, in some ways, uniquely tragic: your most recent and most alive memory is of this person performing painfully alive feats. Reconciling the idea of someone jumping higher than anyone else or running faster than anyone else with the idea that this person can no longer do that *or anything else* is, quite honestly, impossible.
 
-Anyway, I've got work to do, but these thoughts were good to put into writing. Maybe I'll come back and revise on them at a later date. I'm sure I'll come back to them in a later post.
+Anyway, I've got work to do, but these thoughts were good to put into writing. Maybe I'll come back and revise them at a later date. I'm sure I'll come back to them in a later post.
 
 ----
 
