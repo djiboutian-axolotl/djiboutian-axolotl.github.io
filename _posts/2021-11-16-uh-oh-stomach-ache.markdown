@@ -38,5 +38,5 @@ Examples: I experienced this during AP exams in my senior year of high school, d
 
 Here's hoping the process gets going fast so it can get finished fast. At this point in the week, I'm fairly well-positioned for a sick day. I'd prefer to be able to dedicate the later (and latter) part of this week to work.
 
-*Update (2:40 a.m.): we gettin' closer, (gender-neutral) boys...*
+*Update (2:41 a.m.): we gettin' closer, (gender-neutral) boys...*
 
