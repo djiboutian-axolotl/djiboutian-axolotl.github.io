@@ -27,7 +27,7 @@ I finished a homework assignment earlier today, and I was very happy. I think I 
 
 Speaking of "oh well", I think I've gotta wrap this up. Morning and classes approach, and I want to be awake (both physically and mentally) for them. 
 
-Coming up tomorrow: more vicarious athletics, maybe some running (I hit 60 miles/week for the last 5 weeks of the summer, and I've been maintaining OK-ish mileage -- maybe 15? for the past few weeks), classes, possibly a panel discussion, maybe some more feelings (hopefully [good ones -- I see ya, Flo Rida](https://en.wikipedia.org/wiki/Good_Feeling_(song))).
+Coming up tomorrow: more [vicarious athletics]({% post_url 2021-11-16-uh-oh-stomach-ache %}), maybe some running (I hit 60 miles/week for the last 5 weeks of the summer, and I've been maintaining OK-ish mileage -- maybe 15? for the past few weeks), classes, possibly a panel discussion, maybe some more feelings (hopefully [good ones -- I see ya, Flo Rida](https://en.wikipedia.org/wiki/Good_Feeling_(song))).
 
 Well, to bed.
 
