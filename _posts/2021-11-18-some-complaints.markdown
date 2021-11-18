@@ -26,7 +26,7 @@ I'm not sure that I like math so much as that I abhor the debugging, bang-my-hea
 
 The *vicarious athletics* I mentioned in [yesterday's post]({% post_url 2021-11-17-consideration-new-writing-style %}) happened, and we lost in a shootout -- but only because the ref was irredeemably horrible. He had no idea what the rules were, and he was on a vicious power trip (directed against my team) the whole game.
 
-I (proudly) led some *boo*ing against him after an especially egregious call. His worst call, though, was a non-call, when an opposing player kicked our goalie in the box. Our goalie was injured such that he needed to leave the game (he left until PKs, where -- through no fault of his but perhaps some fault of the injury -- all of the opposing players' PKs went through), but was there a call? Nope.
+I (proudly) led some *boo*ing against him after an especially egregious call. His worst call, though, was a non-call, when an opposing player kicked our goalie in the box. Our goalie was injured such that he needed to leave the game (he left until PKs, where -- through no fault of his but perhaps some fault of the injury -- all of the opposing players' PKs went through), but was there a call? Nope. My theory: the ref was salty because we *smoked* his team in the semis. What I'm saying is that there may have been some conflict of interest.
 
 I was very proud of both our players and their attitudes: they realized that, though the game had high stakes in our hearts, it was actually a very low-stakes affair. I think they enjoyed the game which, in all honesty, is most important in games like this.
 
