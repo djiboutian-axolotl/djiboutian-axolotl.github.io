@@ -30,7 +30,7 @@ I (proudly) led some *boo*ing against him after an especially egregious call. Hi
 
 I was very proud of both our players and their attitudes: they realized that, though the game had high stakes in our hearts, it was actually a very low-stakes affair. I think they enjoyed the game which, in all honesty, is most important in games like this.
 
-On the positive side: we had a beautiful cross that became a goal fairly early in the game. And the other team had some terrific players. We were the better team, but it was a tight match. Also, I truly believe we "left it all on the pitch", even if we maybe should've taken more shots.
+On the positive side: we had a beautiful cross that became a goal fairly early in the game. We did a great job contesting those 50-50 balls. Our defense was lock-down. And the other team had some terrific players. We were the better team, but it was a tight match. Also, I truly believe we "left it all on the pitch", even if we maybe should've taken more shots.
 
 I'm fine with a hands-off ref, and I'm fine with a hands-on ref who's largely accurate. But I can't stand a hands-on ref who's always wrong and seems to relish in his own perceived moral superiority. But I truly am happy with the game: we played well, we had good spirit, and we'll have fun in the future.
 
