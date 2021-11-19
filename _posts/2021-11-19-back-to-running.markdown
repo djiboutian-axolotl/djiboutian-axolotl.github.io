@@ -1,12 +1,3 @@
----
-layout: post
-title:  "Back to running."
-date:   2021-11-18 02:44:00 -0500
-categories: blog
-use_math: false
-author: Your Correspondent
----
-
 I went for one of my best runs in a while today.
 
 # Running today
@@ -26,7 +17,7 @@ Being the first finishers of this tempo, we waited for other people to catch up.
 
 (One funny thing I learned, both from the 5:40 guy and the 6:15 guy: we're all a bit afraid of dogs, and dogs were out in force today!)
 
-I didn't realize just how fast I had been, though, until I stopped my watch, which congratulated me with a 5k PR of 18:0x minutes. To be clear, this is not a true PR because I don't wear a watch for racing, but it is a semi-legitimate watch record. I write "semi-legitimate" because it doubtless included that roughly 2-minute rest, which was non-negligle. However, I was definitely holding back some -- *after all, I was talking pretty normally* -- during the 5:40 part, and I know I could tack a low-6s mile on the back of that effort without any (or at least much) trouble. In plain words, I'm fairly shocked that a 2-months-removed-from-60-mile-weeks me could essentially effortlessly hit a sub-18 5k. I must've been *elite* was I was at my recent-ish peak.
+I didn't realize just how fast I had been, though, until I stopped my watch, which congratulated me with a 5k PR of 18:0x minutes. To be clear, this is not a true PR because I don't wear a watch for racing, but it is a semi-legitimate watch record. I write "semi-legitimate" because it doubtless included that roughly 2-minute rest, which was non-negligible. However, I was definitely holding back some -- *after all, I was talking pretty normally* -- during the 5:40 part, and I know I could tack a low-6s mile on the back of that effort without any (or at least much) trouble. In plain words, I'm fairly shocked that a 2-months-removed-from-60-mile-weeks me could essentially effortlessly hit a sub-18 5k. I must've been *elite* was I was at my recent-ish peak.
 
 ## Now that I got the stats out of the way...
 
@@ -57,16 +48,17 @@ At school, I can eat so much, and it's great. Somehow, I've passively acquired a
 
 ## Returning to "full-time" running
 
-One fear that I have is that I may be in shape for occasional running, but that I am not sufficiently in shape to carry the burden of the essentially constant running I was doing this summer. There were some days this summer when I would wake up absolutely *drained*, dreading any running I would need to do. It's an awful feeling. Throughout the summer, I also dealt with various ailments, but they all worked themselves out, and I'm not sure how much of that was luck-based. There was one time when I ran for literally 300 miles with a kind of bum left knee, but it never became anything more than that. The 250 miles before that were dedicated to a kind of sore right foot that felt like maybe it was just being silly or maybe it was a stress fracture (of course, it ended up being fine, so I can retrospectively rule out "stress fracture", but that's the thing: you can only rule out these worst case scenarious retrospectively).
+One fear that I have is that I may be in shape for occasional running, but that I am not sufficiently in shape to carry the burden of the essentially constant running I was doing this summer. There were some days this summer when I would wake up absolutely *drained*, dreading any running I would need to do. It's an awful feeling. Throughout the summer, I also dealt with various ailments, but they all worked themselves out, and I'm not sure how much of that was luck-based. There was one time when I ran for literally 300 miles with a kind of bum left knee, but it never became anything more than that. The 250 miles before that were dedicated to a kind of sore right foot that felt like maybe it was just being silly or maybe it was a stress fracture (of course, it ended up being fine, so I can retrospectively rule out "stress fracture", but that's the thing: you can only rule out these worst case scenarios retrospectively).
 
 > I ran for literally 300 miles with a kind of bum left knee, but it never became anything more than that.
 
-Now, my left foot feels a little off -- not in a discrete way, just in a "the top feels some pressure"-type of way. I don't know what to make of it. Also, I have no idea what my mileage should be when I restart the grind in the winter. I'm thinking 35 miles, with a 15-20 percent per-week ramp up to 55 miles, and then 10 percent my way up to 65. A part of me, though, fears that 35 *could* be too aggressive. I don't think it will be, and I guess I'll return for the spring semester soon enough, but the unknown aspect of running (and, I guess, everything else) can be so annonying.
+Now, my left foot feels a little off -- not in a discrete way, just in a "the top feels some pressure"-type of way. I don't know what to make of it. Also, I have no idea what my mileage should be when I restart the grind in the winter. I'm thinking 35 miles, with a 15-20 percent per-week ramp up to 55 miles, and then 10 percent my way up to 65. A part of me, though, fears that 35 *could* be too aggressive. I don't think it will be, and I guess I'll return for the spring semester soon enough, but the unknown aspect of running (and, I guess, everything else) can be so annoying.
 
 # Research update
 
 I also had a major research-based breakthrough. Basically, just evaluate your assumptions now and then, question why they're your assumptions, and you might figure out something semi-magical. Just last week, I had showed that, in some setting, some property was inevitable. But I failed to consider other settings. Now with a creative twist on a different setting, I think I know how to do what was impossible in the other setting. It feels a little too good to be true at this point, but I think I rigorously proved it, and I even checked my proof! I'll see what "tomorrow me" thinks. (Of course, "tomorrow me" has non-research related schoolwork as well (*eyeroll*).)
 
 This could be a major, unanticipated win. I'm fairly psyched about it!
+
 
 
