@@ -9,8 +9,6 @@ author: Your Correspondent
 
 I went for one of my best runs in a while today.
 
-# Running today
-
 ## My peak is in the past...
 Earlier in the semester, I was going on some phenomenal runs. I probably hit my all-time running peak when, in the span of a week, I ran 13 miles and 15 miles, and each time set a half-marathon PB -- even though that wasn't my goal -- and managed to accelerate pretty much continuously the whole run. In both cases, I think my last two miles averaged to a sub-6-minute pace.
 
@@ -43,7 +41,7 @@ Today was honestly pretty great.
 
 ## Other running experiments
 
-One interesting thing I've been trying recently is what I call "relaxed breathing running". I learned about it, of all places, in a [GQ article](https://www.gq.com/story/why-you-should-run-marathon) about some 3:45 marathon runner. The thesis of the article is inherently flawed: reject the idea that anyone should run a marathon. There are much healthier, much more fulfilling athletic commitments with far lower injury rates. I am a pretty good runner, but I have yet to run a marathon. My longest run, I think, is 15 miles, even though my longest week is 65 miles (which I did without eating or drinking -- the thirst and hunger always kick in around mile 12). 
+One interesting thing I've been trying recently is what I call "relaxed breathing running". I learned about it, of all places, in a [GQ article](https://www.gq.com/story/why-you-should-run-marathon) about some 3:45 marathon runner. The thesis of the article is inherently flawed: I reject the idea that anyone should run a marathon. There are much healthier, much more fulfilling athletic commitments with far lower injury rates. I am a pretty good runner, but I have yet to run a marathon. My longest run, I think, is 15 miles, even though my longest week is 65 miles (which I did without eating or drinking -- the thirst and hunger always kick in around mile 12). 
 
 Despite this criticism of the article, one part caught my eye: it recommended limiting breathing to a breath in every 3 strides, and a breath out every 3 strides. (At my cadence, this is around 30 breaths in per minute). Initially, this seemed impossible. Then, though, I tried it. I ran 6 miles, with the final 4 miles performed under this "breath per 3 strides" strategy -- and I was able to do it! Moreover, I dropped my pace throughout the run, with my last two miles clocking in between 6:20 and 6:25. So I guess I covered a mile in approximately 180-190 breaths! 
 
@@ -63,7 +61,7 @@ One fear that I have is that I may be in shape for occasional running, but that 
 
 Now, my left foot feels a little off -- not in a discrete way, just in a "the top feels some pressure"-type of way. I don't know what to make of it. Also, I have no idea what my mileage should be when I restart the grind in the winter. I'm thinking 35 miles, with a 15-20 percent per-week ramp up to 55 miles, and then 10 percent my way up to 65. A part of me, though, fears that 35 *could* be too aggressive. I don't think it will be, and I guess I'll return for the spring semester soon enough, but the unknown aspect of running (and, I guess, everything else) can be so annoying.
 
-# Research update
+## Research update
 
 I also had a major research-based breakthrough. Basically, just evaluate your assumptions now and then, question why they're your assumptions, and you might figure out something semi-magical. Just last week, I had showed that, in some setting, some property was inevitable. But I failed to consider other settings. Now with a creative twist on a different setting, I think I know how to do what was impossible in the other setting. It feels a little too good to be true at this point, but I think I rigorously proved it, and I even checked my proof! I'll see what "tomorrow me" thinks. (Of course, "tomorrow me" has non-research related schoolwork as well (*eyeroll*).)
 
