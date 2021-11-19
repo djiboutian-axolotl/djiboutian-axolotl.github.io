@@ -40,7 +40,7 @@ Today was honestly pretty great.
 
 ## Other running experiments
 
-One interesting thing I've been trying recently is what I call "relaxed breathing running". I learned about it, of all places, in a [GQ article](https://www.gq.com/story/why-you-should-run-marathon) about some 3:45 marathon runner. The thesis of the article is inherently flawed: I reject the idea that everyone should run a marathon. There are much healthier, much more fulfilling athletic commitments with far lower injury rates. I am a pretty good runner, but I have yet to run a marathon. My longest run, I think, is 15 miles, even though my longest week is 65 miles (which I did without eating or drinking -- the thirst and hunger always kick in around mile 12).
+One interesting thing I've been trying recently is what I call "relaxed breathing running". I learned about it, of all places, in a [GQ article](https://www.gq.com/story/why-you-should-run-marathon) about some 3:45 marathon runner. The thesis of the article is inherently flawed: I reject the idea that everyone should run a marathon. There are much healthier, much more fulfilling athletic commitments with far lower injury rates. I am a pretty good runner, but I have yet to run a marathon. My longest run, I think, is 15 miles, even though my longest week is 65 miles (I did the 15 without eating or drinking -- thirst and hunger always kick in around mile 12, and then I can drag myself a little further).
 
 > The thesis of the article is inherently flawed: I reject the idea that everyone should run a marathon.
 
