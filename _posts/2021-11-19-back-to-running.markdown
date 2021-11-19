@@ -69,5 +69,5 @@ This could be a major, unanticipated win. I'm fairly psyched about it!
 
 ---
 
-*OK, how was this 1600+ words?? I literally have a 1600-word essay due Monday, and I know it'll flow a lot less smoothly than this.*
+*OK, how was this 1600+ words?? I literally have a 1600-word essay due Monday, and I know it'll flow out a lot less smoothly than this.*
 
