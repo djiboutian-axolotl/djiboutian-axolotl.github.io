@@ -19,7 +19,7 @@ I must state here that I recognize that at least part of my faith is a product o
 
 There are definitely people out there who work harder than I do (and, in all likelihood, have more ability than I do) who don't make it as far as I do.
 
-On the other hand, part of my faith is a product of non-privilege. I've known how bad things can be, which makes me willing to set an incredibly low floor for "acceptable achievement". My foremost goal is to be happy with myself. And often "being happy with myself" is almost fully detached from outside views of me. If I feel like I've put in the work, I'm happy.
+On the other hand, part of my faith is a product of non-privilege. (Though, of course, I am not myself non-privileged.) I've known how bad things can be, which makes me willing to set an incredibly low floor for "acceptable achievement". My foremost goal is to be happy with myself. And often "being happy with myself" is almost fully detached from outside views of me. If I feel like I've put in the work, I'm happy.
 
 ---
 
