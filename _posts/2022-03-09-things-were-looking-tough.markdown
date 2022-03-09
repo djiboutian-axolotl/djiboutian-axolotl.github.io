@@ -11,7 +11,7 @@ Things were looking kinda tough, but then I got some *very* exciting news today.
 
 The goals [I'd discussed in this post]({% post_url 2022-02-04-goals-for-2022 %}) were looking, although not out of reach, a lot more deferred than I would've hoped/expected. After some news today, there's a good chance a bunch are coming true already! Of course, things can still go wrong. I've experienced enough "almosts" (and worse) to know to count my chickens only after they've hatched &ndash; and grown up a little.
 
-Throughout this experience, I impressed myself with my faith. I don't think of myself as religious, but I realized that I have strong faith, both in my abilities and in my resilience. (And, for that matter, in the idea that God has a plan for me.) As alluded to in [this post]({% post_url 2021-11-15-on-drill-music %}), I've gone through some rough times, and I've made it out on the other side &ndash; and I think I've made it out a better, stronger person. I'm proud of who I've become over the past year or two.
+Throughout this experience, I impressed myself with my faith. I don't think of myself as religious, but I realized that I have strong faith, both in my abilities and in my resilience. (And, for that matter, in the idea that God has a plan for me.) As alluded to in [this post]({% post_url 2021-11-15-on-drill-music %}), I've gone through some rough times, and I've made it out on the other side &ndash; and I think I've made it out a better, stronger person. I'm proud of who I've become over the past year or two. (Or, from a more Confucian perspective, I'm proud of what I've accomplished and how I've treated others over the past year or two.)
 
 > I'm proud of who I've become over the past year or two.
 
