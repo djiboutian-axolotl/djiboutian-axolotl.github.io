@@ -13,4 +13,4 @@ Just wanted to put that out there. I'd often thought of myself as a person who's
 
 I've learned more and more that I wouldn't be affected the way I am, and that I wouldn't be joyous in the way I am, if this were the case. I'm not emotional, per se, but I've grown to embrace the human side of me.
 
-In conclusion, I'm pretty excited!
+In conclusion, I'm pretty excited! It's great when things seem like they'll work out how you've hoped!
