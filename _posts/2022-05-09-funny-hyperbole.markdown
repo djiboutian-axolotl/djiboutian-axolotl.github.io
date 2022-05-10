@@ -7,4 +7,4 @@ use_math: false
 author: Your Correspondent
 ---
 
-*That would've been tragic,* I think to myself as I consider the frightening world of moments prior in which, for a minute-and-a-half, I don't know the location of my much-needed shaver. 
+*That would've been tragic,* I think to myself as I consider the frightening world of moments prior in which, for a minute-and-a-half, I don't know the location of my much-needed shaver.
