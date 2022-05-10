@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "We're back at it."
+date:   2022-05-09 04:11:00 -0400
+categories: blog
+use_math: false
+author: Your Correspondent
+---
+
+The past few weeks have offered a series of whiplash-inducing twists in fortune and happiness. Not really sure where I am right now.
+
+Lots of exciting (good exciting, not bad exciting) things happened. I submitted some research, then I submitted more research. In the course of this, I grinded some *very* late nights &ndash; possibly damagingly so, but it's whatever. I was feeling tired, but I was feeling good. Triumphant, culminated, ready to go.
+
+Then, things settled down. That is, things were scheduled to settle down. With my luck, though, they didn't.
+
+I'd been going through some real dumb allergies. Allergies are the worst precisely because they're not. They sap a little here and there. My nose bleeds frequently, but not dumpingly &ndash; just when I blow my nose, and not even consistently. Work was doable: tough enough to be a drag, but easy enough to not be worth saying anything about.
+
+I called my family the other day, partly to discuss my allergies and their slowdown effect on my work, and I got some not-great news. In any case, this news kind of sent me.
+
+As alluded to in various posts throughout this blog, I've undergone some things. Also, as alluded to in posts throughout this site, I like to approach things analytically. I thought, *Oh, it can't be that bad, can it?* As "luck" (of which I apparently have very little) would have it, things were kind of even worse than I imagined.
+
+First, some numbers: the average person knows (maybe?) 300 people. For the sake of analysis, let's say I'm average in this respect. Now, let's say that the [death probabilities in this table](https://www.ssa.gov/oact/STATS/table4c6.html) (provided by the SSA) are accurate.
+
+Per this handy chart put out by Social Security, I can now state that, in 2020, >99.5% of friend/family/acquaintance groups experienced likelier "loss" scenarios than mine. In fact, that calculation only involves a non-super-majority of the tragedies people around me experienced. So yeah, I feel like I'm on a desert island out here. In any case, this knowledge was actually terrible. I thought numbers would help, but they patently didn't. I feel uncomfortably alone in my experiences. (For the interested reader, if you compress the probability calculations to the time scale in which I got one-two punched multiple times, it's gonna be much worse than 0.5% since these events were *not* very spread out, though they were all independent.)
+
+Due to the pandemic, I've kind of drifted away from this group, leaving me more alone, though I have one definite friend (and perhaps others). I think I've gotta talk to him about this because the recent bad news really dredged up some stuff I hadn't thought this hard about in a while.
+
+Another part that makes me mad is that, when people look at me, there's no way they know what I've experienced. For one, without lots of additional information, it's unreasonable from a statistical perspective to guess that anyone (particularly someone who looks like I do and achieves what I do) has experienced a collection of tragic events with overall probability <0.5%.
+
+I've got a lot of experiences: I want to help people, I know a lot (and I've developed a deep understanding for the idea that there's *a lot* I don't know), and I know enough people to make a difference. But I'm afraid that people won't believe me without knowing why I'm trying to do. And I also don't want to elicit pity. I, after all, am not the one to pity: the people to uplift are the people who were even closer to the friends/family/acquaintances I lost.
+
+The line between helping and not sharing is really, really difficult to tread, and I don't know how to leverage this pain in a way to meaningfully benefit others. I could try some "diversity efforts" or something, but they feel empty, and I feel like people wouldn't know where I'm coming from. They'd perceive me as a wannabe savior rather than as a guy who's gone through a lot and could (I think) help a lot. 
+
+Anyway, I'm really railing against the misfortune I've experienced and, in all (empirical) likelihood, will continue to experience.
+
+The wackiest, worst part is that all of these probabilities are memoryless. (Summer/Fall) 2020 was not my first rodeo. 2017 wasn't great and 2018 was worse. And I don't think I'm being overgenerous in my characterization of who affects me (I know emotions are valid, yada-yada, but I feel like I knew many of these people to an uncommon degree, conditioning on what they then went through). Part of this is because I can categorize the losses, and they feel pretty darn close. There are people I knew; there are people I talked to and sat near; there are people I traveled, ate, and laughed with; and there are people who, in addition to all this, I worked alongside. 
+
+One of the biggest failures of my education was the fact that I believed my classmates were, by and large, my equals. I now understand that some of them had so, so many more disadvantages than I did. I wish I would've known to be gentler and more supportive &ndash; encourage them to go to college, let them know that I'd be there for them, help them with schoolwork &ndash; to help them toward better health and more success instead of down spirals that (again euphemistically) didn't end well &ndash; and, most importantly and tragically, *ended*.
+
+I know it now (forlorn woohoo) but I really wish I would've known it at the time.
+
+A couple of weeks ago, we were talking about whether we knew anyone with bullet wounds. I said I didn't. I now realize (and realized at the time, but didn't want to say anything and didn't realize the full extent) that I do, but that I've never seen these bullet wounds. I know approximately 5. Haven't seen them since it happened, but 5 is too many. And if you extend to people I know (not well, but kinda know), the number rises to 7. Of these, 6 are (euphemistically) unseeable. 
+
+I view this knowledge of wounds but inexperience with seeing these wounds as a strange and horribly macabre commentary on social stratification. In school, we're all together: the likely-to-be-bullet-wounded and the less-likely-to-be-bullet-wounded. Then we leave school, and we're separate. These guys were my teammates: we strived, achieved, and suffered together. Now I only really think about them when I'm thinking of tragedies. There's a reasonable chance I wouldn't have seen them after graduation even if they *had* been seeable after graduation. 
+
+About a month ago, someone was talking about death in the most sanitized, academic way. The questions dealt with things that boiled down to something related to, "Oh yeah, I wonder if working in a hospital and encountering death changes your perspective on life."
+
+Yes, I wanted to scream, it must! Exposure to death has changed me so much! I'm now acutely aware of my own mortality &ndash; and I'm still (kind of) a kid. I don't mess around with stuff that doesn't matter. I take active steps to reduce unpredictability and chance, since chance often comes up bad for me. I dedicate myself to the things I love.
+
+It made me sick. This person can't have *actually* experienced death (meaning, of the non-old-age sort). I wanted to say something, but I couldn't. I sat there, in the words of Future, mask on. I waited for the conversation to end. It did, but it remained with me. I'm never going to talk with that person again.
+
+I treat everyone with as much help and care as I can. I used to think of myself as somehow emotion-adjacent (my emotions there, me over here). As is clear from this post, I'm not. Because even I can be affected (and profoundly) by this stuff, I recognize that others can potentially be affected even more so. I also recall my own experiences, wherein I show *nothing*. Nothing about me says that I should've experienced this <.5% tragedy in 2020 (and maybe a 1% tragedy from Jan. 2017 &ndash; Apr. 2018?). So I give everyone the compassion and leniency that I would've loved to have.
+
+Anyway, I'm not really sure what my next steps should be. I feel powerless in the face of the relentless march of fate. I'm religious, but my faith keeps getting tested. What am I doing wrong? Why am I being done like this? I curse a lot of things now. I'm not unhappy, per se, because I am thankful for the all that I have. But for a guy whose happiness is rooted in really, really basic things &ndash; my motto is that my only goal is for my family and friends to be healthy and reasonably happy; I don't care about material things, and I don't even care about achieving anything specific or extra special so long as I'm happy at this basic level &ndash; having these basic things wrenched away from me really stinks. *Why?* I think. *I don't ask for much, so why are the things I ask for* too much*?*
+
+Anyway, I unfortunately still have work to do. I think it helped to write down my frustrations at the memoryless, arbitrary tragedy of the universe (or the calculated tragedy of a powerful being who has, for some reason I can't figure out, chosen me as a punching bag). At the very least, it'll be interesting for me to have a(n) historical record to look back at. I'm leaning back into drill music (because some of those guys are also part of the 0.5% tragedy elite), and I guess I'll have to lean back into absurdism. I'll re-commit myself to embracing the paradox: Life is meaningful precisely because life is meaningless. And I'll ensure that I continue doing what I love, because if I'm not doing what I love and time is so limited, why am I doing something I *don't* love?
+
+Oh yeah, and hopefully running. As they say, *You can't think when you run fast.* It looks like I've got some fast runs in my future.
+
