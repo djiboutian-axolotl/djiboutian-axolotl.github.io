@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A funny hyperbole."
-date:   2022-05-10 17:38:00 -0400
+date:   2022-05-10 20:50:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
