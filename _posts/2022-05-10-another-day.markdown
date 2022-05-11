@@ -9,7 +9,7 @@ author: Your Correspondent
 
 Another day of general malaise, but I'm feeling better.
 
-As has been the recent pattern, I woke up late today. And, has been the general pattern, I woke up with a headache. That being said, I think I'm feeling better.
+As has been the recent pattern, I woke up late today. And, as has been the general pattern, I woke up with a headache. That being said, I think I'm feeling better.
 
 I've been thinking a lot recently &ndash; I've probably been thinking too much recently &ndash; but I feel like I'm regaining comfort with where I am. That being said, I don't want to trick myself into having adjusted, so I'm not going to continue to emphasize the idea that I've adjusted when, in all probability, I haven't. The way I think of it is that I'm adjust*ing*: I'm remembering what this all feels like (which isn't great), but I'm also remembering what continuing feels like (which is good).
 
@@ -31,7 +31,7 @@ One thing I haven't mentioned: I thought my experiences had prepared me for stuf
 
 Another reason is that there's a fundamental mismatch. The thing from a few years ago was Irish goodbye after Irish goodbye. The exit was hasty, and man was it soon. I didn't think a goodbye was coming, and when it came, it came out of nowhere. And this happened, happened, happened, happened. The fast shock of it all was deeply affecting. The injustice was deeply affecting. But the level of "how much I know you" wasn't as bad as it could've been, and the rip-off-a-Band-Aid nature of it made something less painful. Although the peak was (maybe?) sharper in some ways, the short range of the time axis perhaps made the grief integral smaller. The scenario now is more different than I realized, though the inevitable outcome is the same. You know it's coming. The age isn't a shock, the prognosis was (roughly) known, and there's still time. But the anticipation is really rough, and the outcome's going to be quite (euphemistically) unpleasant.
 
-My theory is the following: grief is a function of how well you know the affected person, how surprising the event is, and how unjust the event feels. For example, a "wow, that person's really old" end for a non-relative doesn't feel that bad; a "that person's end was caused by another person and they were young" end is bad, even if you don't know the person. As a thought experiment, extend both of these examples in ways that vary the "how much you know them", the "how did it happen", and the "how surprising was it".
+My theory is the following: grief is a function of how well you know the affected person, how surprising the event is, and how unjust the event feels. (Call it a loss function, lol.) For example, a "wow, that person's really old" end for a non-relative doesn't feel that bad; a "that person's end was caused by another person and they were young" end is bad, even if you don't know the person. As a thought experiment, extend both of these examples in ways that vary the "how much you know them", the "how did it happen", and the "how surprising was it".
 
 Theory-implementation mismatches really get ya. Something can apply to an Irish-goodbye case, but that doesn't mean it generalizes to a drawn-out goodbye that, yeah, was definitely coming but, still, is terribly unwanted. That's the thing that's gotten me the most here.
 
