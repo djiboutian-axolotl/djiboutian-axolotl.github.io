@@ -37,7 +37,7 @@ Theory-implementation mismatches really get ya. Something can apply to an Irish-
 
 The impact of the "how fast was it" is the trickiest to measure, and I'm not even certain that it's a parameter: it feels like speed could be sharp but fast, while slow could be less sharp but certainly affect your day-to-day for a lot more days as you gear up. The biggest unknown for me is what the sharpness of the conclusion will be like. My sense is that it could be quite bad because, no matter how much you know that there is an end (even if you really know, "oh yeah, *there's an end*"), the actual end could be real tough.
 
-I guess this is reminiscent, in some ways, of nostalgia. The years go, and they go, and they go (жизнь идёт, время идёт), and yeah, I'm class of 20xy, so when 20xy comes, of course I'm graduating. The graduation itself, though, can still bring emotions (even though I think it shouldn't). And when it's something much more final than graduation (e.g. seeing friends less frequently vs. seeing friends never again and being unable to ever see them), I guess the emotions can be even stronger.
+I guess this is reminiscent, in some ways, of nostalgia. The years go, and they go, and they go (жизнь идёт, время идёт), and yeah, I'm class of 20xy, so when 20xy comes, of course I'm graduating. The graduation itself, though, can still bring emotions (even though it can be so antipated &ndash; it is literally *scheduled* &ndash; that it really feels like it shouldn't). And when it's something much more final than graduation (e.g. seeing friends less frequently vs. seeing friends never again and being unable to ever see them), I guess the emotions can be even stronger.
 
 
 
