@@ -9,5 +9,3 @@ author: Your Correspondent
 
 Bro, what am I doing, it is literally 3 a.m. and I am awake and doing nothing I just need to go to sleep. Goodnight!
 
-
-
