@@ -43,4 +43,3 @@ The concluding nature of "It's Whatever" is also cool. "It is" trails off. "It's
 
 I'm starting to think that, after embracing the beauty of the unknown with "it is" to ground myself from spiralling worry, the time has come to move on. Am I moving on too fast? Should I take more time? What more should I do? What less should I do? "It's Whatever" &mdash;Joel Embiid.
 
-
