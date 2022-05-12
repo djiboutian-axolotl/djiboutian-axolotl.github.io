@@ -41,6 +41,6 @@ I've realized that "It's Whatever" is, in some ways, a better concept than "It I
 
 The concluding nature of "It's Whatever" is also cool. "It is" trails off. "It's Whatever" has a forcefulness to it. "It is" leaves the possibility for some hope, while "It's Whatever" slams the door and moves on.
 
-I'm starting to think that, after embracing the beauty of the unknown with "it is" to ground myself from spiralling worry, the time has come to move on. Am I moving on too fast? Should I take more time? What more should I do? What less should I do? "It's Whatver" &mdash;Joel Embiid.
+I'm starting to think that, after embracing the beauty of the unknown with "it is" to ground myself from spiralling worry, the time has come to move on. Am I moving on too fast? Should I take more time? What more should I do? What less should I do? "It's Whatever" &mdash;Joel Embiid.
 
 
