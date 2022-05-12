@@ -7,7 +7,7 @@ use_math: false
 author: Your Correspondent
 ---
 
-There's an interesting disconnect between myself as I am and the self I could strive to be.
+There's an interesting disconnect between myself as I am and the self I could strive harder to be.
 
 I think of this as "me" and "the professional me". The second version almost always knows what should be done and has a good sense for how to do it. The first version is who I am and what I do, with all my logic and illogic, perfections and imperfections, energy and exhaustion. When I give advice to others, I employ the abilities of the professional me &ndash; and, because professional me has the answers, I give the impression that I do what these answers advise.
 
