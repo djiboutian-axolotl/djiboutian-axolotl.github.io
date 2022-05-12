@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The irony of advice-giving."
-date:   2022-05-12 01:59:00 -0400
+date:   2022-05-12 01:50:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
