@@ -40,5 +40,4 @@ Anyway, I'm feeling good, I'm looking good, I'm doing good. Sure, nothing's perf
 ---
 
 *<sup>[1]</sup>fraction of hits that go longer than a single*
-
 *<sup>[2]</sup>lol, why is this such a sabermetric post?*
