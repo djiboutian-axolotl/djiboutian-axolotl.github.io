@@ -35,7 +35,7 @@ One minor fear is that I'm becoming disconnected from the issues and ideas I car
 
 Could the past have been kinder? Sure. Would I change a thing? Of course &ndash; some people I know have gotten damaged in horrible, unfair ways. But would I change who I knew? Never.
 
-Anyway, I'm feeling good, I'm looking good, I'm doing good. Sure, nothing's perfect, but so much is alright and even better. I'm pretty happy with who I am and where I am, and I think feelings of accomplishment and hope are not unfounded. 
+Anyway, I'm feeling good, I'm looking good, I'm doing good. Sure, nothing's perfect, but so much is alright and even better. There's of course uncertainty about the future, but I feel like I'm at least doing the right stuff right now. I'm pretty happy with who I am and where I am, and I think feelings of accomplishment and hope are not unfounded. 
 
 ---
 
