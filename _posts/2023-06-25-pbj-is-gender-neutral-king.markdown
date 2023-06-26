@@ -8,6 +8,7 @@ author: Your Correspondent
 ---
 
 Peanut butter and jelly sandwiches are great. I eat an unreasonable amount of them, for several reasons.
+
 1. I run a lot, so I need to eat a lot.
 1. PBJ sandwiches are nutritious and delicious.
 1. Athletes love PBJ sandwiches, [including transcendent athletes](https://www.espn.com/espn/feature/story/_/page/presents18931717/the-nba-secret-addiction) (not just amateurs like myself).
