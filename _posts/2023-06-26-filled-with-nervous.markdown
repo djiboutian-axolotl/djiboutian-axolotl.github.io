@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Filled with nervous."
-date:   2023-06-26 21:25:29 -0400
+date:   2023-06-26 22:17:12 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
