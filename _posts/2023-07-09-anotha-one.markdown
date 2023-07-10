@@ -19,7 +19,7 @@ The first few were, I'm not gonna lie, tough. They were sudden, but they were al
 
 By now, I'm practiced. My parent calls me up, I can tell from the tone that the news is going to be sad, it's someone old, and I think, "OK, I've been through this." It's not easy, but I make it. I fire up my "mourning" playlist. I tell my friends that I might be a bit down for the next few days (two weeks seems to be a ceiling for the half life), but that I'll be fine, but that sometimes I think, "Oops, I should've told someone", so that's why I'm telling them.
 
-I'm honestly laughing as I type this. And no disrespect to my grandma at all. It's just why do I have a checklist of what to do? Why do I have a "mourning" playlist?
+I'm honestly laughing as I type this. And no disrespect to my grandma at all. It's just why do I have an itemized set of things to do? Why do I have a "mourning" playlist?
 
 She had a phenomenal life, as far as I can tell. Her kids are great (I might be biased); her grandkids are great (I'm definitely biased). My cousins are doing well in school, well in life. Her kids went to college, did well, have &ndash; I think it's fair to say &ndash; good lives. Are they perfect? No, but whose are? Her husband loved (loves) her. She had a remarkably open mind. If I grew up in a town of 700 and lived there for 95% of my life, I'd've probably been a Republican, and I might've been a little hateful. She wasn't. She had a great sense of humor, was a well-liked (deservedly so) educator, and had a whole lot of respect and love for a whole lot of people.
 
