@@ -17,7 +17,7 @@ The last few years have put me through a bit of a wringer of death, starting aro
 
 The first few were, I'm not gonna lie, tough. They were sudden, but they were also unexpectable in a profoundly tragic way, and some were straight tragic. Recently, they've shifted to a more mundane style: people get older, and older people die. It's a fact of life/death. 
 
-By now, I'm practiced. My parent calls me up, I can tell from the tone that the news is going to be sad, it's someone old, and I think, "OK, I've been through this." It's not easy, but I make it. I fire up my "mourning" playlist. I tell my friends that I might be a bit down for the next few days, but that I'll be fine, but that sometimes I think, "Oops, I should've told someone", so that's why I'm telling them.
+By now, I'm practiced. My parent calls me up, I can tell from the tone that the news is going to be sad, it's someone old, and I think, "OK, I've been through this." It's not easy, but I make it. I fire up my "mourning" playlist. I tell my friends that I might be a bit down for the next few days (two weeks seems to be a ceiling for the half life), but that I'll be fine, but that sometimes I think, "Oops, I should've told someone", so that's why I'm telling them.
 
 I'm honestly laughing as I type this. And no disrespect to my grandma at all. It's just why do I have a checklist of what to do? Why do I have a "mourning" playlist?
 
