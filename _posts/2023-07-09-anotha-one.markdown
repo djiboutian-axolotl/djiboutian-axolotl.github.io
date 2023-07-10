@@ -21,7 +21,7 @@ By now, I'm practiced. My parent calls me up, I can tell from the tone that the 
 
 I'm honestly laughing as I type this. And no disrespect to my grandma at all. It's just why do I have an itemized set of things to do? Why do I have a "mourning" playlist?
 
-She had a phenomenal life, as far as I can tell. Her kids are great (I might be biased); her grandkids are great (I'm definitely biased). My cousins are doing well in school, well in life. Her kids went to college, did well, have &ndash; I think it's fair to say &ndash; good lives. Are they perfect? No, but whose are? Her husband loved (loves) her. She had a remarkably open mind. If I grew up in a town of 700 and lived there for 95% of my life, I'd've probably been a Republican, and I might've been a little hateful. She wasn't. She had a great sense of humor, was a well-liked (deservedly so) educator, and had a whole lot of respect and love for a whole lot of people.
+She had a phenomenal life, as far as I can tell. Her kids are great (I might be biased); her grandkids are great (I'm definitely biased). My cousins are doing well in school, well in life. Her kids went to college, did well, have &ndash; I think it's fair to say &ndash; good lives. Are they perfect? No, but whose are? Her husband loved (loves) her. She had a remarkably open mind. If I grew up in a town of 700 and lived there for 95% of my life, I'd've probably been a Republican, and I might've been a little hateful. She wasn't. She had a great sense of humor and a loudly proclaimed fear of mice, was a well-liked (deservedly so) educator, and had a whole lot of respect and love for a whole lot of people.
 
 OK, now I'm crying.
 
