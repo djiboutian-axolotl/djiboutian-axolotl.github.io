@@ -33,7 +33,9 @@ Maybe this is the Slurpee comedown talking. I didn't notice a sugar crash, but I
 
 All of this makes me even angrier at murderers. I hated them always, but this is a reminder of just how much I can't stand them. The weird thing, too, is that I can't empathize with their perspective, but when young guys die I start to see a little bit the progression that pushes people to the anger and apathy and emptiness and helplessness that leads them to do bad stuff. 
 
-My general approach in life, I've found, is to take all the steps I can to prevent death but to also shrug a bit when it happens. Not shrug with indifference, but shrug with inevitability, because it seems so inevitable (and a little moreso for the people around me). I don't know why it's apparently so dangerous to know me. Empirically, though, it seems like it is.
+My general approach in life, I've found, is to take all the steps I can to prevent death but to also shrug a bit when it happens. Not shrug with indifference, but shrug with inevitability, because it seems so inevitable (and a little moreso for the people around me). I don't know why it's apparently so dangerous to know me. I think I'm nice and gentle, I take very few physical risks, I think I encourage similar and I don't think I surround myself with wild guys. Empirically, though, it seems like I'm quite the risk factor.
+
+I'm not blaming myself here because that wouldn't be fair or true. I'm just confused about why my presence is empirically such a hazard. I'm not going to change my behavior since the relationship does not seem causal at all, but wow is it correlated.
 
 Sometimes writing helps me wind down a bit, so that's what I hoped it'd do today. No such luck, seemingly, tonight. I'm not spiraling down or up, but I'm just going around and around and around. I think the best approach is to just go to bed, so that's what I'll do.
 
