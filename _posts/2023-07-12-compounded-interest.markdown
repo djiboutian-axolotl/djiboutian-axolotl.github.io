@@ -32,4 +32,6 @@ Anyway, this reminds me of the "bro, what are you doing it's 4am" post from ... 
 
 I remember feeling a few weeks ago that things were going uncomfortably well. Well, suspicions confirmed. Can't I have a peaceful go? Yeah, but it's gonna end eventually. (And, unfortunately, it seems like it's never going to last especially long.)
 
+I think I'm trying to move too fast because I want so badly to get back to (roughly) where I was, and because I can't stand waiting ever. (Which can be a bit of a virtue &ndash; it means I get stuff done.) At the same time, though, I'm good at waiting. I've just gotta wait.
+
 
