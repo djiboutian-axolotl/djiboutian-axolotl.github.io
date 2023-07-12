@@ -28,4 +28,8 @@ OK, this isn't productive or insightful: I'm largely rehashing old thoughts, I'm
 
 Anyway, this reminds me of the "bro, what are you doing it's 4am" post from ... last time. It's not 4am, but I *should* just get to bed. Seeya tomorrow.
 
+---
+
+I remember feeling a few weeks ago that things were going uncomfortably well. Well, suspicions confirmed. Can't I have a peaceful go? Yeah, but it's gonna end eventually. (And, unfortunately, it seems like it's never going to last especially long.)
+
 
