@@ -34,4 +34,10 @@ I remember feeling a few weeks ago that things were going uncomfortably well. We
 
 I think I'm trying to move too fast because I want so badly to get back to (roughly) where I was, and because I can't stand waiting ever. (Which can be a bit of a virtue &ndash; it means I get stuff done.) At the same time, though, I'm good at waiting. I've just gotta wait.
 
+---
+
+I like being told that I can take the time I need. I can't stand when it's implied that I'm uniquely tragic.
+
+I guess that's why I sent the message to my cousins: not only to let them know that I'm there for them, but to let them know that we're all alone in this together. Even then, though, I feel alone because I'm too in my head and thinking about my own exceptionality. Even US rappers, maybe, I struggle to identify with because I live such a mundane lifestyle and stuff is still happening to me. WTF. I do not do not do not wish my circumstances on others. So it's not at all that I wish others had my circumstances &ndash; I sometimes do wish, though, that I had others' circumstances. Actually, scratch that: I think it's more that I wish that people I knew (emphasis on the past tense :(...) had the circumstances of others.
+
 
