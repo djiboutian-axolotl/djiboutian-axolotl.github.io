@@ -37,4 +37,6 @@ My general approach in life, I've found, is to take all the steps I can to preve
 
 Sometimes writing helps me wind down a bit, so that's what I hoped it'd do today. No such luck, seemingly, tonight. I'm not spiraling down or up, but I'm just going around and around and around. I think the best approach is to just go to bed, so that's what I'll do.
 
+Maybe I'll listen to the mourning playlist more tomorrow.
+
 
