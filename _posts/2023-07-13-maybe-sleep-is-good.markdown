@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maybe sleep is good."
-date:   2023-07-13 22:22:22 -0400
+date:   2023-07-13 23:55:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
