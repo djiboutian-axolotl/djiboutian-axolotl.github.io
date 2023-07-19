@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time helps most wounds."
-date:   2023-07-13 23:55:00 -0400
+date:   2023-07-18 23:09:00 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
