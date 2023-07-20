@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "An adjusted approach."
+date:   2023-07-19 22:09:00 -0400
+categories: blog
+use_math: false
+author: Your Correspondent
+---
+
+Of late, this blog has been a (fairly well-earned) pity party for yours truly. That must be a drag to read. To hopefully move toward a more audience-friendly blog, we herein announce an adjustment in strategy.
+
+The adjustment, to be clear, is unspecified. Know, though, that we _are_ changing out approach! One caveat is that, if things crush down again, well then it's back to where we were. Hopefully (for the sakes of those I know, and more selfishly for my sake) that won't happen any time soon.
+
+This blog's founding principle was to offer "An unflinching embrace of the banality of life." Unfortunately, the life of your correspondent has been _way too exciting_. Things are slated to calm down, but sometimes scheduled calming doesn't pull through. But barring the unexpected (which is quite the assumption to make), we've got calm seas on the horizon.
+
+I guess another pithy way to phrase this blog's mission is that it should provide a lively account of the doldrums of existence. When your correspondent's personal existence has such stormy seas, though, the task becomes challenging. After all, the content here tends to be autobiographical or autofictional or something.
+
+To be clear, I'm not sure of the difference between autobiography and autofiction. Also, I'm realizing that I don't really know what qualifies as autofiction. For example, is Lana Del Rey music autofiction? I think there's a case to be made there. What about rap music, like Future, Young Thug, Pop Smoke, Pooh Shiesty, Dave, etc.? Pop Smoke has very little actual content in his music; it's kind of generic swagger. That's not to say that I, or a person like me, could write or perform Pop Smoke's songs: it's simply, for the most part, largely impersonal, and though songs like "PTSD" are incredibly personal, they don't give much discussion of actual people or events, though they do give discussion of actual emotions. Young Thug, on the other hand, apparently has enough reality or perceived reality in his music to prompt prosecution. My view is that only a small fraction of a rap song is true. If some is true, or drawn from truth, is it autofiction? Unclear.
+
+I'm kind of hitting a dead end right now. (Just for this post, not on some more existential level.) I'm not sure why &ndash; I've found the post so far to be interesting and engaging. I guess this maybe brings me to a different thought/concern. Recently, I've been going hard with math. I feel like I'm losing a bit of what made me a good math-er to begin with: I'm not great at math, but I am great at thinking about how math can affect the real world (if I do say so myself, lol). I think I need to start making a conscious effort to re-connect to the important parts of the world. I should have time. I spend plenty of time on research and on running, but there's certainly some slack remaining. I should consider this. When I talk to people, I sometimes find it tough to articulate the magnitude of my interest in the real world. Having more knowledge of the truly current state of things (not, e.g., the world as it was in 2019, when I last followed news like a religion) seems like a good place to start.
+
+Another way in which I stay attuned to the goings on of the world is through sports and through music. Music keeps the guys I've known, and their experiences, front and center. It's hard to avoid thinking about how those things affect the world and affect me when I've got them in my ear as I type a paper. Of course, as I've discussed before, this encourages a bit of a caricature-style remembrance of these things. I think I'm good, though, at passing news or whatever through a filter and teasing out the reality. I think I do a similar thing with music. This note, after all, evidences that I recognize the exaggerated nature of experiences related through music. Sports are also really cool. They, in my mind, offer remarkable insights into the human condition. I like to run partly to get a sense for my physical limits. The idea that I so efficiently convert food to motion is kind of wild. Professional athletes knock my socks off because their conversion is so efficient and to such an elite level of output, and they make others (fans, peer athletes) change their behaviors in ways that, without that athlete, wouldn't have happened even a little. They also have such talent and ability, and they sometimes struggle so publicly, and they sometimes succeed so publicly, and there's a window into the human psyche offered by all of this that I find absolutely fascinating. Sports journos, too, are pretty cool, and they extract and interpret things impressively, and the writing style can be quite funny.
+
+I view running as a bit of an experiment. Scratch that, I view it a lot as an experiment. It's fun to see how fast I can get, how far I can go, how exhausted I can feel while still getting things done, how fresh I can feel while still doing a lot.
+
