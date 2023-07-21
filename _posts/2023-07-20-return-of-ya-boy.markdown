@@ -7,7 +7,7 @@ use_math: false
 author: Your Correspondent
 ---
 
-The quality of life of yours has improved drastically over the past few days!
+The quality of life of yours has improved dramatically over the past few days!
 
 I'm sleeping enough, I'm getting back to being focused, I'm thinking pretty alright &ndash; life is good, ya know what I mean?
 
