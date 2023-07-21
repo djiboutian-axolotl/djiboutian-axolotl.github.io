@@ -9,7 +9,7 @@ author: Your Correspondent
 
 The quality of life of yours has improved drastically over the past few days!
 
-I'm sleeping enough, I'm getting back to being focused, I'm thinking pretty alright &ndash; life is good, ya know wut I mean?
+I'm sleeping enough, I'm getting back to being focused, I'm thinking pretty alright &ndash; life is good, ya know what I mean?
 
 I tend to get weird injuries. I sprain my thumb while sledding, I bruise my ankle, I've has several toenail injuries (sorry &ndash; they make my stomach turn, too, just thinking about them). I've broken a couple toes, never from running and always from just the most freakish things. I'm not gonna say what injury which transpired today because that would leak some info, but know that it's not important and know that I'll recover expeditiously and that my running will be unaffected.
 
