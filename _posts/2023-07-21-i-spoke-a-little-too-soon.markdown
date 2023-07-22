@@ -11,7 +11,7 @@ Well, today was a step back. Scratch that, it was a step forward, but downhill.
 
 As I've said before, this stuff isn't monotonic non-decreasing, and today was definitely a decreasing day. Oh well. It's like that MLK quote that Obama always used for explaining why the Democrats are unstrategic and would inevitably beat Trump despite their perpetual mis-steps (they lost), about how "the arc of history bends toward justice", except it's actually true. Something like, "the arc of time bends toward feeling better", idk.
 
-I'm not really sure what went wrong today, or even if something went wrong. I can't think of anything in particular. I was maybe a bit frustrated by my lack of output-based progress this week. As mentioned before, I _wanted_ to do things this week (whereas last week I didn't want to do anything). But I actually didn't get much done at all.
+I'm not really sure what went wrong today, or even if something went wrong. I can't think of anything in particular. I was maybe a bit frustrated by my lack of output-based progress this week. As mentioned before, I _wanted_ to do things this week (whereas last week I didn't want to do anything). But I actually didn't get much done at all in spite of physically showing up every day and trying to get stuff done. I got more done toward the end, so that's progress for me, but my actual output didn't make much progress on the broader projects.
 
 For that matter, I'm not even sure whether thinking about whether something went right or wrong is right or wrong. It's more like time goes, and with it so does the arc toward feeling better.
 
