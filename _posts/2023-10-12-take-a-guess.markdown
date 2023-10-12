@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Take a guess."
-date:   2023-10-12 03:00:00 -0400
+date:   2023-10-12 02:49:38 -0400
 categories: blog
 use_math: false
 author: Your Correspondent
