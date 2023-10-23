@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "About three years ago."
+date:   2023-10-12 02:49:38 -0400
+categories: blog
+use_math: false
+author: Your Correspondent
+---
+
+About three years ago &ndash; in fact, almost exactly three years ago, based on the classes I was taking and based on the elections that were happening &ndash; I noticed that my abs were lopsided.
+
+This was a bit of a milestone. I guess I'd never had sufficiently defined abs to notice whether they were symmetrical. Now they were sufficiently defined to notice that they weren't. My abs hadn't previously been obscured due to weight but due to lack of concentrated exercise. I say this because in gym class (or at least in my gym class) we're often told that everyone has abs (duh) but that they're often just covered by fat. This is true, but the implication that losing weight leads to defined abs is false, at least in my case. Rather, exercising them is important. The emphasis on fat loss as a method for ab development is likely a vestige of the national "my gosh these kids are 'big'" revelation of the late-'90s/early-2000s. 
+
+It's not clear why this approximate anniversary crossed my mind today. I'd strangely envisioned this realization as the introduction to some sort of pseudo-autobiographical or -memoirish book that I could write about myself. I toyed with this idea for at least a few months, but I never got around to it. There wasn't a clear purpose, and there evidently wasn't sufficient activation energy. I think it would've fallen roughly under the umbrella of autofiction, with an upbeat lamentation of the general malaise of lots of things going right on some level and lots of things going wrong on other levels, and no existential risk for yours truly but overly present existential risk to those around yours.
+
+I guess it would've drawn heavily from similar content to this blog. In its most thought-out (and aspirational) form, I pictured it as a zeitgeist-capturing piece on the constant uncertainty and mundane peril that characterized 2020 and 2021, largely due to COVID but also due to the accompanying swirl of distress that came in its wake and (thankfully) largely receded with COVID's fade away from the public conscience.
+
+Well, I'm stuck. I'd been typing, then I stopped, and now getting started isn't easy. 
+
+Strangely, I realized an un-stick as I was typing &ndash; because, right now, I'm kind of stuck. I'd been rolling (in a good way, a la "picture me rolling", a windows down, radio up swagger song by 2pac), then I stopped hockey style. So immediate as to be a step beyong a screeching halt (because the screech takes time, it's not instantaneous), ice chips flying, crowd kind of going, "Wow, that was _fast_." OK, there wasn't a crowd, but you get the idea. And getting started isn't easy.
+
+The funeral was good, but maybe my expectations for post-funeral me were too high or maybe I'm just dealing with the non-monotonicity of recovery. In any case, it's a quagmire right now. Yesterday didn't help, though. I went out with some friends, we were talking (and the one friend's conversations are far ranging), and the conversation got too tragic and I didn't say what I was going through, and now I'm just exhausted. I was glad to go out because I was feeling like I needed to do something with other people, but then it went way wrong. Keeping the mask up isn't easy and it isn't necessary, but that's what I did yesterday.
+
+Then I was tired today so I didn't do the things I aspired to do, and now I feel worse. I was on free play mode for a bit, and I was doing well for a while. But then I implictly decided that free play was over and the weight of actually doing stuff kind of crushed me and sent me backwards. With the exception of my first grandma's death &ndash; which also coincided with a whole lot of new things &ndash; I've badly underestimated the time needed for a return to normal. I think it's because there's some weird, random element to this, so my general logic-driven and evidence-based nature and approach fails mightily in its face.
+
+The other thing I realized today is that I might just have too much freedom right now. In the past, when tragedy befell those around me, I had a lot of deadlines, so I kept up with them. There aren't many deadlines now. In their absence, I guess I don't structure things to hit deadlines because, when they're internal anyway and it's probably "better for me" to not push, I let them come and go.
+
+Another confounding variable of late: I've been pretty much drinking congestion. It's barely hyperbolic (just like a graph that _almost_ fails to make the reflected U shape &ndash; bad math pun), and it makes it tough for me to tell whether I'm feeling physically bad because of psychology or whether I'm feeling psychologically off because of physical badness. In light of this issue, I've been pill-popping (OTC and exclusively allergies related, so don't worry), but not for long enough to give a big difference. There's been enough of an improvement to offer hope, but it's also been for long enough to elicit the specter of "maybe this isn't the issue". I'll proceed and hope for the best.
+
+One point to emphasize is that I'm existentially in good shape right now: in some sense, I don't need to do anything for the next three-ish months. Just because I don't have to, though, doesn't mean I don't want to. I like doing stuff, and I want to do stuff, but at some fundamental level I'm still at the stage of showing up with a grin for public-facing events but doing a lot less than I'd like when I'm left to my own time.
+
+I keep reminding myself that, when I don't have so many funerals, working with me is great. For that matter, working with me isn't bad when I _do_ have so many funerals &ndash; but from my view, it's painfully slow. There's so much I want to do that simply isn't happening, and getting un-stuck always takes a lot more time than I want. Also, I should emphasize that two isn't so many, but these were pretty close (relationship-wise). I've been through a quantitatively larger number, but this sets a high water mark for the time-proximity and relationship-proximity combo.
+
+Another thing that keeps getting me is I worry about how the people around me respond to these funerals. Worse, my concern is sometimes substantiated, so I can't just write it off and shut it down. My behavior's altered and it's quite challenging to know when to call off the behavioral alterations. 
+
+One forgotten technique is to throw myself into reading. In the past, that's been successful as long as the content is either escapist or helps me understand my situation. I think that motivated the possible abs-intro book discussed at the start of this post. Books can help me understand myself so, the thinking goes, a for-me-by-me book can help me understand me even more. I'm definitely a content creator and content consumer. Of late, my consumption's been more numbing than introspective. I guess, to a point, numbing-style content makes sense. There are some moments where thinking isn't the right move, so running or walking or sports-watching is the appropriate approach. There comes a point, though, where I should make an attempt to scale the imposing wall of "it's time to trying thinking", and now feels like a reasonable time to give it a shot. _(A note: Although this post gives the illusion of me thinking, I actually approach many posts &ndash; and certainly this post &ndash; in a very stream-of-consciousness style, where I let my thoughts wander wherever they want and I let my "pen" follow along. So the deeper, more focused style of thought that I plan to take for a spin is kinda new.)_
+
+I guess I have some reading to do. I'll hang up the pen for now. Is that what old-timey writers would do? Pretty clearly no. I guess today's phrase would be something like, "I'll close the laptop for now". But what would writers say? I'm not sure, but pursuing the answer right now doesn't seem compatible with my promise to hang up the pen for a bit, so I'll just save that question for another day and close my laptop.
+
+
